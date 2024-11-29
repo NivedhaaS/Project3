@@ -1,12 +1,14 @@
 #include <string>
+#include <vector>
 #include <chrono>
 #include <httplib.h>
 #include <json.hpp>
-#include <heap.h>
-#include <hash_map.h>
+#include <data_structures.h>
 
 int main(){
     using namespace httplib;
+
+    DataStructures structures;
 
     Server api;
     
@@ -24,11 +26,15 @@ int main(){
         else if (data_structure == "table") using_heap = false;
         else return;
 
-        
+        vector<location> topKHotspots = structures.getKTopHotspots(hotspot_count, using_heap);
 
         nlohmann::json response;
         response["using_heap"] = std::to_string(using_heap);
         response["hotspot_count"] = std::to_string(hotspot_count);
+
+        for (location hotspot : topKHotspots){
+            //response[hotspot.name] = 
+        }
 
         res.set_content(response.dump(), "application/json");
     });

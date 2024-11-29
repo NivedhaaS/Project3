@@ -12,3 +12,11 @@ body {
     overflow: hidden;
     overflow-y: scroll;
 }
+
+.caveat {
+    font-family: "Caveat", cursive;
+    font-optical-sizing: auto;
+    font-weight: 20px;
+    font-style: normal;
+  }
+  
