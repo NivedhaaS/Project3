@@ -4,14 +4,13 @@ import earth from "../../assets/earth.png";
 
 const Navbar = () => {
     return (
-        <div>y is this not printing sigh.</div>
-        // <nav className="navbar">
-        //     <img src={earth} alt="earth" className='earth'/>
+        <nav className="navbar">
+            <img src={earth} alt="earth" className='earth'/>
 
-        //     <button className="github">
-        //         <img src="" alt="" className="githubIcon"/>
-        //     </button>
-        // </nav>
+            <button className="github">
+                <img src="" alt="" className="githubIcon"/>
+            </button>
+        </nav>
     )
 }
 

@@ -1,5 +1,5 @@
 # dependencies
-/node_modules
+uweather/node_modules
 /.pnp
 .pnp.*
 .yarn/*
