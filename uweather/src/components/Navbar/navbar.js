@@ -1,6 +1,7 @@
 import React from 'react';
 import './navbar.css';
 import earth from "../../assets/earth.png";
+import github from "../../assets/github.png";
 
 const Navbar = () => {
     return (
@@ -8,7 +9,7 @@ const Navbar = () => {
             <img src={earth} alt="earth" className='earth'/>
 
             <button className="github">
-                <img src="" alt="" className="githubIcon"/>
+                <img src={github} alt="github" className="githubIcon"/>
             </button>
         </nav>
     )
