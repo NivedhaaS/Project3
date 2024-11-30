@@ -1,4 +1,4 @@
-#include <dataparse.h>
+#include <data_parse.h>
 #include <queue>
 #include <unordered_map>
 #include <string>
@@ -24,7 +24,19 @@ class DataStructures{
     public:
     
     std::vector<location> getKTopHotspots(int K, bool using_heap){
-        std::vector<location> location_data;
-        
+        std::vector<location> top_hotspots;
+
+        if(using_heap){
+            auto heap_copy = heap; //so that the original heap does not get modified
+            while(K-> 0 && !heap_copy.empty()){
+                top_hotspots.push_back(heap_copy.top());
+                heap_copy.pop();
+            }
+        }
+        else{
+            //Sort using a vector? to get the top K value
+        }
+
+        return top_spots; 
     }
 };
