@@ -4,39 +4,47 @@
 #include <string>
 #include <vector>
 
-struct location{
-    std::string name;
-    std::string longitude;
-    std::string latitude;
-    double percentage_increased;
-
-    bool operator>(location const& location1, location const& location2){
-        if (location1.percentage_increased > location2.percentage_increased) return true;
-        else return false;
-    }
-};
 
 class DataStructures{
 
     std::priority_queue<location> heap; //stores structure that stores location and percentage increased
-    std::unordered_map<std::string, double> table; //key: location, val: percentage increased
+    std::unordered_map<std::string, location> table; //key: station_code, val: location
 
     public:
+
+    DataStructures(bool loading_from_file = false, std::string data_path = "../data"){
+        if (!loading_from_file){
+            std::unordered_map<std::string, dataEntry> station_codes = loadStations(data_path);
+
+            loadData(data_path, station_codes, heap, table);
+        }
+    }
     
     std::vector<location> getKTopHotspots(int K, bool using_heap){
         std::vector<location> top_hotspots;
 
-        if(using_heap){
-            auto heap_copy = heap; //so that the original heap does not get modified
-            while(K-> 0 && !heap_copy.empty()){
-                top_hotspots.push_back(heap_copy.top());
-                heap_copy.pop();
+        if (using_heap){
+            for (int i = 0; (i < K && !heap.empty()); i++){
+                top_hotspots.push_back(heap.top());
+                heap.pop();
             }
-        }
-        else{
-            //Sort using a vector? to get the top K value
+            for (location hotspot : top_hotspots) heap.push(hotspot);
         }
 
-        return top_spots; 
+
+        else { //using table (linear search)
+            for (auto iter1 = table.begin(); iter1 != table.end(); iter1++){
+                bool placed = false;
+                for (auto iter2 = top_hotspots.begin(); iter2 != top_hotspots.end(); iter2++){
+                    if (iter1->second > *iter2) top_hotspots.emplace(iter2, iter1->second);
+                    placed = true;
+                    break;
+                }
+                if (!placed && top_hotspots.size() < K) top_hotspots.push_back(iter1->second);
+                if (top_hotspots.size() > K) top_hotspots.pop_back();
+            }
+        }
+
+        return top_hotspots; 
     }
 };

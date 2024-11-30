@@ -12,7 +12,7 @@ int main(){
 
     Server api;
     
-    api.Get("/api", [](const Request& req, Response&res){
+    api.Get("/api", [&structures](const Request& req, Response&res){
 
         auto data_structure = req.get_param_value("data_structure");
         auto hotspots = req.get_param_value("hotspots");
@@ -26,7 +26,7 @@ int main(){
         else if (data_structure == "table") using_heap = false;
         else return;
 
-        vector<location> topKHotspots = structures.getKTopHotspots(hotspot_count, using_heap);
+        std::vector<location> topKHotspots = structures.getKTopHotspots(hotspot_count, using_heap);
 
         nlohmann::json response;
 
