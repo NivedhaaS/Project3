@@ -1,0 +1,26 @@
+#hotspots {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    padding: 10rem 2rem;
+    gap: 1rem;
+    margin-top: 15rem;
+}
+
+.sun {
+    width: 30%;
+    max-width: 135px;
+    height: auto;
+    margin-top: 10px; 
+}
+
+.hHotspots {
+    flex: 1;
+    font-size: 40px;
+    font-family: "Caveat", cursive;
+    font-weight: 600;
+    font-style: normal;
+    line-height: 1.5;
+    text-align: left;
+}

@@ -1,0 +1,20 @@
+#patterns {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    padding: 10rem 2rem;
+    gap: 1rem;
+    margin-top: 30rem;
+}
+
+.hPattern {
+    flex: 1;
+    font-size: 40px;
+    font-family: "Caveat", cursive;
+    font-weight: 600;
+    font-style: normal;
+    line-height: 1.5;
+    text-align: left;
+}
+

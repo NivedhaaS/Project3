@@ -2,12 +2,13 @@
 #include <fstream>
 #include <string>
 #include <vector>
-//do not delete
 
 struct dataEntry{
+    char[11] station_code;
     std::string name;
-    std::double latitude;
-    std::double longitude;
+    char[2] state;
+    std::string latitude;
+    std::string longitude;
 };
 
-std::vector<DataEntry> loadData(std::filesystem::path& file_path);
+std::vector<DataEntry> loadData(std::filesystem::path& file_path){};

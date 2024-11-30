@@ -29,8 +29,6 @@ int main(){
         vector<location> topKHotspots = structures.getKTopHotspots(hotspot_count, using_heap);
 
         nlohmann::json response;
-        response["using_heap"] = std::to_string(using_heap);
-        response["hotspot_count"] = std::to_string(hotspot_count);
 
         for (location hotspot : topKHotspots){
             //response[hotspot.name] = 

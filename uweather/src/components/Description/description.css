@@ -1,0 +1,26 @@
+#description {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    padding: 2rem 2rem;
+    gap: 1rem;
+    margin-top: 5rem;
+    margin-left: 8rem;
+}
+
+.earth {
+    width: 30%;
+    max-width: 135px;
+    height: auto;
+    margin-top: 10px;
+}
+
+.part2 {
+    padding: 1rem 5rem;
+    flex: 1;
+    font-size: 23px;
+    font-family: "Fira Sans Condensed", sans-serif;
+    line-height: 1.5;
+    text-align: left;
+}
