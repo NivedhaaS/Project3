@@ -9,7 +9,7 @@ const Hotspots = () => {
             <div class="container">
                 <img src={sun} alt="sun" className="sun"/>
                 <div className="hHotspots" >
-                    <span>global warming hotspots -------------------------------</span>
+                    <span>global warming hotspots<hr className="hr"></hr></span>
                 </div>
             </div>
             <img src={map} alt="map" className="map"/>
