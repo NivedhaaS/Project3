@@ -1,0 +1,1218 @@
+USC00011084  31.0583  -87.0550   25.9 AL BREWTON 3 SSE                      HCN      
+USC00012813  30.5467  -87.8808    7.0 AL FAIRHOPE 2 NE                      HCN      
+USC00013160  32.8347  -88.1342   38.1 AL GAINESVILLE LOCK                   HCN      
+USC00013511  32.6922  -87.5761   75.9 AL GREENSBORO                         HCN      
+USC00013816  31.8814  -86.2503  132.0 AL HIGHLAND HOME                      HCN      
+USC00017157  34.1744  -86.8106  238.7 AL SAINT BERNARD                      HCN      
+USC00017304  34.6736  -86.0536  187.5 AL SCOTTSBORO                         HCN      
+USC00017366  32.4111  -87.0144   44.8 AL SELMA                              HCN      
+USC00018024  33.4172  -86.1344  154.8 AL TALLADEGA                          HCN      
+USC00018178  31.9172  -87.7347  118.9 AL THOMASVILLE                        HCN      
+USC00018323  31.8075  -85.9722  165.2 AL TROY                               HCN      
+USC00018438  32.0142  -85.7464  134.1 AL UNION SPRINGS 9 S                  HCN      
+USC00018469  34.5686  -85.6064  341.7 AL VALLEY HEAD                        HCN      
+USC00020080  32.3697 -112.8600  533.7 AZ AJO                                HCN      
+USC00021026  33.3761 -112.5828  271.3 AZ BUCKEYE                            HCN      
+USC00021248  36.1533 -109.5394 1709.9 AZ CANYON DE CHELLY                   HCN      
+USC00021514  33.2058 -111.6819  434.3 AZ CHANDLER HEIGHTS                   HCN      
+USC00021614  34.3494 -111.6981  807.7 AZ CHILDS                             HCN      
+USC00023160  35.2719 -111.7300 2239.1 AZ FT VALLEY                          HCN      
+USC00023596  36.0528 -112.1503 2068.1 AZ GRAND CANYON NP 2                  HCN      
+USC00024089  34.9094 -110.1544 1549.9 AZ HOLBROOK                           HCN      
+USC00024645  35.2000 -114.0167 1078.7 AZ KINGMAN #2                         HCN      
+USC00024849  36.8644 -111.6022  978.4 AZ LEES FERRY                         HCN      
+USC00025512  33.4044 -110.8700 1085.1 AZ MIAMI                              HCN      
+USC00026250  34.1547 -114.2908  128.0 AZ PARKER                             HCN      
+USC00026353  31.9372 -109.8394 1322.5 AZ PEARCE - SUNSITES                  HCN      
+USC00026796  34.5706 -112.4322 1586.5 AZ PRESCOTT                           HCN      
+USC00027281  33.6489 -111.1089  794.0 AZ ROOSEVELT 1 S                      HCN      
+USC00027370  33.0722 -111.7661  396.2 AZ SACATON                            HCN      
+USC00027390  32.8150 -109.6808  900.4 AZ SAFFORD AG CTR                     HCN      
+USC00027435  34.5181 -109.4011 1764.8 AZ SAINT JOHNS                        HCN      
+USC00027716  35.3319 -112.8794 1600.2 AZ SELIGMAN                           HCN      
+USC00028619  31.7119 -110.0686 1420.1 AZ TOMBSTONE                          HCN      
+USC00028815  32.2292 -110.9536  742.2 AZ TUCSON WFO                         HCN      
+USC00029271  33.8214 -109.9839 1575.8 AZ WHITERIVER 1 SW                    HCN      
+USC00029287  33.9792 -112.7403  638.6 AZ WICKENBURG                         HCN      
+USC00029359  35.2414 -112.1928 2105.9 AZ WILLIAMS                           HCN      
+USC00029652  32.6114 -114.6350   58.2 AZ YUMA CITRUS STN                    HCN      
+USC00030936  34.8822  -91.2153   56.4 AR BRINKLEY                           HCN      
+USC00031596  35.1033  -92.4903   95.1 AR CONWAY                             HCN      
+USC00031632  36.4083  -90.5917   75.0 AR CORNING                            HCN      
+USC00032356  36.4164  -93.7917  432.8 AR EUREKA SPRINGS 3 WNW               HCN      
+USC00032444  36.1011  -94.1736  387.1 AR FAYETTEVILLE EXP STN               HCN      
+USC00032930  36.4261  -94.4481  384.0 AR GRAVETTE                           HCN      
+USC00034572  36.4947  -91.5350  153.0 AR MAMMOTH SPRING                     HCN      
+USC00034756  34.5978  -94.2900  348.7 AR MENA                               HCN      
+USC00035186  35.6042  -91.2747   67.1 AR NEWPORT                            HCN      
+USC00035512  35.5125  -93.8683  253.0 AR OZARK 2                            HCN      
+USC00035754  34.2256  -92.0186   70.1 AR PINE BLUFF                         HCN      
+USC00035820  36.2642  -90.9683   96.0 AR POCAHONTAS 1                       HCN      
+USC00035908  33.8203  -93.3878   93.9 AR PRESCOTT 2 NNW                     HCN      
+USC00036253  33.8103  -91.2694   46.0 AR ROHWER 2 NNE                       HCN      
+USC00036928  35.3028  -93.6369  152.4 AR SUBIACO                            HCN      
+USC00040693  37.8744 -122.2606   94.5 CA BERKELEY                           HCN      
+USC00040924  33.6139 -114.5981   81.7 CA BLYTHE                             HCN      
+USC00041048  32.9544 -115.5581  -30.5 CA BRAWLEY 2 SW                       HCN      
+USC00041614  41.5300 -120.1792 1428.9 CA CEDARVILLE                         HCN      
+USC00041715  39.6911 -121.8211   56.4 CA CHICO UNIV FARM                    HCN      
+USC00041758  32.6400 -117.0858   17.1 CA CHULA VISTA                        HCN      
+USC00041912  39.0900 -120.9469  723.3 CA COLFAX                             HCN      
+USC00042239  32.9897 -116.5872 1414.3 CA CUYAMACA                           HCN      
+USC00042294  38.5350 -121.7761   18.3 CA DAVIS 2 WSW EXP FARM               HCN      
+USC00042319  36.4625 -116.8672  -59.1 CA DEATH VALLEY NP                    HCN      
+USC00042728  38.3306 -120.6706  217.9 CA ELECTRA P H                        HCN      
+USC00042941  34.7050 -118.4297  932.7 CA FAIRMONT                           HCN      
+USC00043161  39.5100 -123.7564   37.5 CA FT BRAGG 5 N                       HCN      
+USC00043747  36.3158 -119.6369   72.2 CA HANFORD 1 S                        HCN      
+USC00043761  41.7961 -123.3747  348.1 CA HAPPY CAMP RS                      HCN      
+USC00043875  38.6294 -122.8664   53.9 CA HEALDSBURG                         HCN      
+USC00044232  36.7981 -118.2036 1204.0 CA INDEPENDENCE                       HCN      
+USC00044259  33.7086 -116.2153   -6.4 CA INDIO FIRE STN                     HCN      
+USC00044713  39.3183 -120.6392 1571.5 CA LAKE SPAULDING                     HCN      
+USC00044890  36.3817 -119.0264  156.4 CA LEMON COVE                         HCN      
+USC00044997  37.6819 -121.7514  161.2 CA LIVERMORE                          HCN      
+USC00045032  38.1061 -121.2878   12.2 CA LODI                               HCN      
+USC00045385  39.1458 -121.5853   17.4 CA MARYSVILLE                         HCN      
+USC00045532  37.2889 -120.5158   46.9 CA MERCED                             HCN      
+USC00045983  41.3217 -122.3172 1101.2 CA MT SHASTA                          HCN      
+USC00046074  38.2778 -122.2647   10.7 CA NAPA STATE HOSPITAL                HCN      
+USC00046175  33.6031 -117.8836    3.0 CA NEWPORT BEACH HARBOR               HCN      
+USC00046399  34.4478 -119.2275  227.1 CA OJAI                               HCN      
+USC00046506  39.7458 -122.1997   77.4 CA ORLAND                             HCN      
+USC00046508  41.3019 -123.5386  122.8 CA ORLEANS                            HCN      
+USC00046719  34.1483 -118.1447  263.3 CA PASADENA                           HCN      
+USC00046730  35.6278 -120.6856  222.5 CA PASO ROBLES                        HCN      
+USC00046826  38.2578 -122.6078    6.1 CA PETALUMA AP                        HCN      
+USC00047195  39.9367 -120.9475 1042.4 CA QUINCY                             HCN      
+USC00047306  34.0369 -117.1947  429.8 CA REDLANDS                           HCN      
+USC00047851  35.3056 -120.6619   93.9 CA SAN LUIS OBISPO POLY               HCN      
+USC00047902  34.4167 -119.6844    4.9 CA SANTA BARBARA                      HCN      
+USC00047916  36.9878 -121.9994   21.3 CA SANTA CRUZ                         HCN      
+USC00047965  38.4558 -122.7133   50.6 CA SANTA ROSA                         HCN      
+USC00048702  40.4167 -120.6631 1283.8 CA SUSANVILLE 2SW                     HCN      
+USC00048758  39.1678 -120.1428 1898.9 CA TAHOE CITY                         HCN      
+USC00048839  35.0233 -118.7497  434.3 CA TEJON RANCHO                       HCN      
+USC00049087  33.7025 -117.7539   71.6 CA TUSTIN IRVINE RCH                  HCN      
+USC00049122  39.1467 -123.2103  193.9 CA UKIAH                              HCN      
+USC00049200  38.3956 -121.9608   33.5 CA VACAVILLE                          HCN      
+USC00049452  35.5892 -119.3519   88.7 CA WASCO                              HCN      
+USC00049490  40.7353 -122.9442  627.3 CA WEAVERVILLE                        HCN      
+USC00049699  39.5231 -122.3047   71.3 CA WILLOWS 6 W                        HCN      
+USC00049855  37.7503 -119.5897 1224.7 CA YOSEMITE PARK HQ                   HCN      
+USC00049866  41.7025 -122.6417  826.6 CA YREKA                              HCN      
+USC00050848  39.9928 -105.2669 1673.0 CO BOULDER                            HCN      
+USC00051294  38.4600 -105.2256 1639.2 CO CANON CITY                         HCN      
+USC00051528  39.2203 -105.2783 2095.5 CO CHEESMAN                           HCN      
+USC00051564  38.8575 -102.3328 1281.1 CO CHEYENNE WELLS 2NE                 HCN      
+USC00051741  39.2403 -107.9575 1832.8 CO COLLBRAN                           HCN      
+USC00052184  37.6911 -106.3078 2391.2 CO DEL NORTE 3ENE                     HCN      
+USC00052281  39.6244 -106.0336 2767.9 CO DILLON 1 E                         HCN      
+USC00052446  38.4758 -102.7769 1283.8 CO EADS                               HCN      
+USC00053005  40.5764 -105.0858 1525.2 CO FT COLLINS                         HCN      
+USC00053038  40.2569 -103.8700 1333.8 CO FT MORGAN                          HCN      
+USC00053146  39.1444 -108.7281 1371.0 CO FRUITA                             HCN      
+USC00053662  38.5253 -106.9672 2323.2 CO GUNNISON 3SW                       HCN      
+USC00053951  37.7494 -107.0950 2727.7 CO HERMIT 8 SE                        HCN      
+USC00054076  38.0517 -102.1317 1036.6 CO HOLLY                              HCN      
+USC00054770  38.0936 -102.6306 1105.5 CO LAMAR                              HCN      
+USC00054834  38.0636 -103.2153 1185.7 CO LAS ANIMAS                         HCN      
+USC00055322  37.1711 -105.9400 2345.4 CO MANASSA                            HCN      
+USC00055722  38.4858 -107.8792 1764.5 CO MONTROSE #2                        HCN      
+USC00057167  38.0383 -103.6947 1271.0 CO ROCKY FORD 2 SE                    HCN      
+USC00057337  38.0919 -106.1511 2359.5 CO SAGUACHE                           HCN      
+USC00057936  40.4883 -106.8233 2092.8 CO STEAMBOAT SPRINGS                  HCN      
+USC00058204  37.9492 -107.8736 2635.3 CO TELLURIDE 4WNW                     HCN      
+USC00058429  37.1786 -104.4869 1837.9 CO TRINIDAD                           HCN      
+USC00059243  40.0819 -102.2069 1083.0 CO WRAY                               HCN      
+USC00062658  41.9500  -73.3667  167.6 CT FALLS VILLAGE                      HCN      
+USC00063207  41.3503  -72.0378   12.2 CT GROTON                             HCN      
+USC00067970  41.1247  -73.5475   57.9 CT STAMFORD 5 N                       HCN      
+USC00068138  41.7950  -72.2286  202.7 CT STORRS                             HCN      
+USC00072730  39.1467  -75.5056    9.1 DE DOVER                              HCN      
+USC00073595  38.8161  -75.5761   13.7 DE GREENWOOD 2NE                      HCN      
+USC00075915  38.8983  -75.4250   10.7 DE MILFORD 2 SE                       HCN      
+USC00076410  39.6683  -75.7456   32.3 DE NEWARK AG FARM                     HCN      
+USC00079605  39.7739  -75.5414   82.3 DE WILMINGTON PORTER RSCH             HCN      
+USC00080211  29.7258  -85.0206    6.1 FL APALACHICOLA AP                    HCN 72220
+USC00080228  27.2178  -81.8742    7.6 FL ARCADIA                            HCN      
+USC00080478  27.8864  -81.8325   34.1 FL BARTOW 1SE                         HCN      
+USC00080611  26.6928  -80.6711    6.1 FL BELLE GLADE                        HCN      
+USC00082220  30.7244  -86.0939   74.7 FL DE FUNIAK SPRINGS 1 E              HCN      
+USC00082850  25.8489  -81.3897    1.5 FL EVERGLADES                         HCN      
+USC00082915  29.7550  -81.5389    1.5 FL FEDERAL PT                         HCN      
+USC00082944  30.6669  -81.4525   14.9 FL FERNANDINA BEACH                   HCN      
+USC00083163  26.1019  -80.2011    4.9 FL FT LAUDERDALE                      HCN      
+USC00083207  27.4419  -80.3508    7.6 FL FT PIERCE                          HCN      
+USC00084289  28.8028  -82.3128   17.7 FL INVERNESS 3 SE                     HCN      
+USC00084731  30.1853  -82.5942   59.4 FL LAKE CITY 2 E                      HCN      
+USC00085275  30.4653  -83.4022   36.6 FL MADISON                            HCN      
+USC00086414  29.1639  -82.0778   22.9 FL OCALA                              HCN      
+USC00087020  25.5819  -80.4361    3.0 FL PERRINE 4W                         HCN      
+USC00087851  28.3381  -82.2603   52.7 FL SAINT LEO                          HCN      
+USC00088824  28.1522  -82.7539    1.8 FL TARPON SPGS SEWAGE PLT             HCN      
+USC00088942  28.6244  -80.8169    4.9 FL TITUSVILLE                         HCN      
+USC00090140  31.5339  -84.1489   54.9 GA ALBANY 3 SE                        HCN      
+USC00090586  30.8228  -84.6175   57.9 GA BAINBRIDGE INTL PAPER              HCN      
+USC00091340  31.1681  -81.5022    4.0 GA BRUNSWICK                          HCN      
+USC00091500  31.2058  -84.1722   60.0 GA CAMILLA 3SE                        HCN      
+USC00092318  33.5972  -83.8436  234.4 GA COVINGTON                          HCN      
+USC00092475  34.5069  -84.0208  445.0 GA DAHLONEGA 4WSW                     HCN      
+USC00092966  32.2003  -83.2058  121.9 GA EASTMAN 1 W                        HCN      
+USC00093621  34.3006  -83.8600  356.6 GA GAINESVILLE                        HCN      
+USC00093754  31.9881  -81.9522   61.0 GA GLENNVILLE 3NW                     HCN      
+USC00094170  32.2964  -83.4883   85.6 GA HAWKINSVILLE                       HCN      
+USC00095874  33.0831  -83.2497  112.2 GA MILLEDGEVILLE                      HCN      
+USC00095882  32.8703  -81.9672   59.4 GA MILLEN 4 N                         HCN      
+USC00096335  33.3997  -84.9150  242.3 GA NEWNAN 7 WNW                       HCN      
+USC00097276  30.7836  -83.5692   56.4 GA QUITMAN 2 NW                       HCN      
+USC00097600  34.2414  -85.1583  208.8 GA ROME                               HCN      
+USC00098535  32.6864  -84.5208  189.0 GA TALBOTTON                          HCN      
+USC00098703  31.4461  -83.4767  115.8 GA TIFTON                             HCN      
+USC00098740  34.5786  -83.3319  308.5 GA TOCCOA                             HCN      
+USC00099141  33.4028  -82.6222  149.4 GA WARRENTON                          HCN      
+USC00099157  33.7264  -82.7058  189.0 GA WASHINGTON 2 ESE                   HCN      
+USC00099186  31.2514  -82.3128   44.2 GA WAYCROSS 4 NE                      HCN      
+USC00099291  32.8861  -85.1839  175.3 GA W PT                               HCN      
+USC00100010  42.9536 -112.8253 1342.6 ID ABERDEEN EXP STN                   HCN      
+USC00100448  43.5936 -115.9236  986.0 ID ARROWROCK DAM                      HCN      
+USC00100470  44.0708 -111.4564 1588.6 ID ASHTON 1N                          HCN      
+USC00100803  42.3353 -111.3856 1817.8 ID BERN                               HCN      
+USC00101408  44.5733 -116.6753  807.7 ID CAMBRIDGE                          HCN      
+USC00101956  47.6822 -116.7967  650.1 ID COEUR D'ALENE                      HCN      
+USC00102845  46.5022 -116.3217  303.3 ID DWORSHAK FISH HATCHERY             HCN      
+USC00103143  46.1000 -115.5447  469.4 ID FENN RS                            HCN      
+USC00103631  42.9403 -115.3231  751.6 ID GLENNS FERRY                       HCN      
+USC00103732  42.5631 -111.7594 1684.9 ID GRACE                              HCN      
+USC00104140  42.5972 -114.1378 1237.5 ID HAZELTON                           HCN      
+USC00104295  42.3528 -114.5739 1379.2 ID HOLLISTER                          HCN      
+USC00104670  42.7325 -114.5192 1140.0 ID JEROME                             HCN      
+USC00104831  47.5333 -116.1333  702.6 ID KELLOGG                            HCN      
+USC00104845  43.6842 -114.3603 1795.3 ID KETCHUM RS                         HCN      
+USC00105275  42.1231 -111.3133 1809.0 ID LIFTON PUMPING STN                 HCN      
+USC00105462  43.9178 -113.6153 1797.4 ID MACKAY LOST RVR RS                 HCN      
+USC00105685  44.5664 -113.8953 1539.2 ID MAY 2SSE                           HCN      
+USC00106152  46.7281 -116.9558  802.8 ID MOSCOW U OF I                      HCN      
+USC00106305  43.6039 -116.5753  752.9 ID NAMPA SUGAR FACTORY                HCN      
+USC00106388  44.9714 -116.2933 1177.1 ID NEW MEADOWS RS                     HCN      
+USC00106542  42.2339 -113.8925 1389.6 ID OAKLEY                             HCN      
+USC00106891  44.0764 -116.9311  655.3 ID PAYETTE                            HCN      
+USC00107264  48.9994 -116.4992  548.3 ID PORTHILL                           HCN      
+USC00107386  48.3511 -116.8353  722.7 ID PRIEST RVR EXP STN                 HCN      
+USC00108080  45.1731 -113.8856 1204.9 ID SALMON-KSRA                        HCN      
+USC00108137  48.2942 -116.5628  648.0 ID SANDPOINT EXP STN                  HCN      
+USC00110072  41.2069  -90.7419  223.7 IL ALEDO                              HCN      
+USC00110187  37.5222  -89.2486  180.7 IL ANNA 4 N                           HCN      
+USC00110338  41.7803  -88.3092  205.7 IL AURORA WATER                       HCN      
+USC00111280  39.2881  -89.8697  186.2 IL CARLINVILLE                        HCN      
+USC00111436  39.4761  -88.1653  213.4 IL CHARLESTON                         HCN      
+USC00112140  40.1392  -87.6478  169.2 IL DANVILLE                           HCN      
+USC00112193  39.8289  -88.9506  194.8 IL DECATUR WTP                        HCN      
+USC00112348  41.8350  -89.5136  198.1 IL DIXON WWTP                         HCN      
+USC00112483  37.9878  -89.1931  128.0 IL DU QUOIN 4 SE                      HCN      
+USC00113335  41.1739  -90.0350  246.9 IL GALVA                              HCN      
+USC00113879  37.7408  -88.5244  111.3 IL HARRISBURG                         HCN      
+USC00114108  39.1611  -89.4919  192.0 IL HILLSBORO                          HCN      
+USC00114198  40.4664  -87.6850  216.4 IL HOOPESTON                          HCN      
+USC00114442  39.7347  -90.1978  185.9 IL JACKSONVILLE 2E                    HCN      
+USC00114823  40.5836  -90.9803  206.7 IL LA HARPE                           HCN      
+USC00115079  40.1519  -89.3386  177.7 IL LINCOLN                            HCN      
+USC00115326  42.2636  -88.6078  248.4 IL MARENGO                            HCN      
+USC00115515  38.1006  -88.5331  150.0 IL 1 N MCLEANSBORO                    HCN      
+USC00115712  40.9125  -89.0339  228.6 IL MINONK                             HCN      
+USC00115768  40.9442  -90.6381  219.5 IL MONMOUTH                           HCN      
+USC00115833  41.7944  -89.9681  192.6 IL MORRISON                           HCN      
+USC00115901  42.0972  -89.9831  215.8 IL MT CARROLL                         HCN      
+USC00115943  38.3619  -88.8597  149.4 IL MT VERNON 3 NE                     HCN      
+USC00116446  38.7006  -88.0819  139.9 IL OLNEY 2S                           HCN      
+USC00116526  41.3281  -88.9097  166.1 IL OTTAWA 4SW                         HCN      
+USC00116558  38.9994  -87.6139  136.6 IL PALESTINE                          HCN      
+USC00116579  39.3686  -89.0867  198.1 IL PANA                               HCN      
+USC00116610  39.6186  -87.6672  197.8 IL PARIS STP                          HCN      
+USC00116738  39.8058  -90.8239  198.1 IL PERRY 6 NW                         HCN      
+USC00116910  40.8778  -88.6364  198.1 IL PONTIAC                            HCN      
+USC00117551  40.1275  -90.5592  205.1 IL RUSHVILLE                          HCN      
+USC00118147  38.1167  -89.7167  163.1 IL SPARTA 1 W                         HCN      
+USC00118740  40.0842  -88.2403  220.1 IL CHAMPAIGN 3S                       HCN      
+USC00118916  41.5519  -89.5989  213.4 IL WALNUT                             HCN      
+USC00119241  39.4408  -90.3789  176.8 IL WHITE HALL 1 E                     HCN      
+USC00119354  39.4458  -88.5961  210.3 IL WINDSOR                            HCN      
+USC00120177  40.1167  -85.6814  256.9 IN ANDERSON 1 N                       HCN      
+USC00120200  41.6639  -85.0183  310.9 IN ANGOLA                             HCN      
+USC00120676  40.6683  -84.9300  255.7 IN BERNE WWTP                         HCN      
+USC00120784  39.1739  -86.5208  253.0 IN BLOOMINGTON INDIANA UNIV           HCN      
+USC00121030  39.4239  -85.0144  192.0 IN BROOKVILLE                         HCN      
+USC00121229  39.8667  -85.1833  304.8 IN CAMBRIDGE CITY 3 N                 HCN      
+USC00121425  38.6500  -85.7000  167.6 IN CHARLESTOWN 5 NNW                  HCN      
+USC00121747  39.1661  -85.9228  185.6 IN COLUMBUS                           HCN      
+USC00121873  40.0028  -86.8011  254.8 IN CRAWFORDSVILLE 6 SE                HCN      
+USC00122149  40.6150  -86.6661  169.5 IN DELPHI 2 N                         HCN      
+USC00123418  41.5575  -85.8825  266.7 IN GOSHEN 3SW                         HCN      
+USC00123513  39.6439  -86.8767  224.0 IN GREENCASTLE 1 W                    HCN      
+USC00123527  39.7858  -85.7611  264.9 IN GREENFIELD                         HCN      
+USC00124008  41.5422  -87.2881  195.1 IN HOBART 2 WNW                       HCN      
+USC00124181  40.8561  -85.4989  222.8 IN HUNTINGTON                         HCN      
+USC00124837  41.6117  -86.7297  246.6 IN LAPORTE                            HCN      
+USC00125237  38.7369  -85.3942  140.2 IN MADISON SEWAGE PLT                 HCN      
+USC00125337  40.5800  -85.6586  240.8 IN MARION 2 N                         HCN      
+USC00126001  37.9286  -87.8956  108.8 IN MT VERNON                          HCN      
+USC00126580  38.8886  -86.5517  197.8 IN OOLITIC PURDUE EX FM               HCN      
+USC00126705  38.5556  -86.4858  170.7 IN PAOLI                              HCN      
+USC00127125  38.3517  -87.5925  137.2 IN 1 WSW PRINCETON                    HCN      
+USC00127298  40.9239  -87.1753  200.6 IN RENSSELAER WWTP                    HCN      
+USC00127482  41.0664  -86.2097  231.6 IN ROCHESTER                          HCN      
+USC00127522  39.7594  -87.2269  210.0 IN ROCKVILLE                          HCN      
+USC00127646  39.6042  -85.4533  289.0 IN RUSHVILLE                          HCN      
+USC00127755  38.6158  -86.0856  239.3 IN SALEM                              HCN      
+USC00127875  38.6886  -85.7850  173.7 IN SCOTTSBURG                         HCN      
+USC00127935  38.9542  -85.9044  172.8 IN SEYMOUR 1 WSW                      HCN      
+USC00128036  38.5528  -86.7944  145.4 IN SHOALS 8 S                         HCN      
+USC00129080  38.7436  -85.0761  150.9 IN VEVAY                              HCN      
+USC00129113  38.7386  -87.4878  137.8 IN VINCENNES 5 NE                     HCN      
+USC00129253  38.6489  -87.1989  146.9 IN WASHINGTON 1 W                     HCN      
+USC00129511  41.1947  -87.0578  202.7 IN WHEATFIELD                         HCN      
+USC00129557  39.9961  -86.3542  286.8 IN WHITESTOWN                         HCN      
+USC00129670  41.0267  -86.5867  210.3 IN WINAMAC 2SSE                       HCN      
+USC00130112  41.0656  -92.7867  268.2 IA ALBIA 3 NNE                        HCN      
+USC00130133  43.0664  -94.2222  370.0 IA ALGONA                             HCN      
+USC00130600  41.8814  -92.2764  234.4 IA BELLE PLAINE                       HCN      
+USC00131402  43.0603  -92.6717  302.7 IA CHARLES CITY                       HCN      
+USC00131533  40.7242  -95.0192  299.3 IA CLARINDA                           HCN      
+USC00131635  41.7950  -90.2642  181.1 IA CLINTON #1                         HCN      
+USC00132724  43.4036  -94.7472  402.3 IA ESTHERVILLE 4E                     HCN      
+USC00132789  41.0181  -91.9547  228.0 IA FAIRFIELD                          HCN      
+USC00132864  42.8825  -91.8303  349.0 IA FAYETTE                            HCN      
+USC00132977  43.2844  -93.6306  390.1 IA FOREST CITY 2 NNE                  HCN      
+USC00132999  42.5836  -94.2006  339.9 IA FT DODGE 5NNW                      HCN      
+USC00134063  41.3506  -93.5733  291.4 IA INDIANOLA 1SW                      HCN      
+USC00134142  42.5189  -93.2536  321.6 IA IOWA FALLS                         HCN      
+USC00134735  42.7908  -96.1508  395.9 IA LE MARS                            HCN      
+USC00134894  41.6500  -95.8061  361.8 IA LOGAN 1 WNW                        HCN      
+USC00135769  40.7053  -94.2428  347.5 IA MT AYR                             HCN      
+USC00135796  40.9600  -91.5850  220.7 IA MT PLEASANT 1 SW                   HCN      
+USC00135952  43.0453  -92.3122  349.9 IA NEW HAMPTON                        HCN      
+USC00137147  43.4289  -96.1689  410.6 IA ROCK RAPIDS                        HCN      
+USC00137161  42.3969  -94.6292  370.0 IA ROCKWELL CITY                      HCN      
+USC00137979  42.6469  -95.1933  438.6 IA STORM LAKE                         HCN      
+USC00138296  42.0356  -92.5806  285.0 IA TOLEDO 3N                          HCN      
+USC00138688  41.2825  -91.7078  209.4 IA WASHINGTON                         HCN      
+USC00140365  37.1942  -99.7633  600.5 KS ASHLAND                            HCN      
+USC00140405  39.5756  -95.1108  288.0 KS ATCHISON                           HCN      
+USC00141704  37.2694  -99.3214  644.0 KS COLDWATER                          HCN      
+USC00141740  37.1681  -94.8300  271.9 KS COLUMBUS                           HCN      
+USC00141867  38.6758  -96.5097  400.8 KS COUNCIL GROVE LAKE                 HCN      
+USC00142401  37.8183  -96.8444  393.2 KS EL DORADO                          HCN      
+USC00142459  38.7297  -98.2250  477.9 KS ELLSWORTH                          HCN      
+USC00142835  37.8172  -94.6986  269.4 KS FT SCOTT                           HCN      
+USC00143527  38.8586  -99.3358  612.6 KS HAYS 1 S                           HCN      
+USC00143810  39.6678  -95.5200  314.6 KS HORTON                             HCN      
+USC00143954  37.2364  -95.7003  245.4 KS INDEPENDENCE                       HCN      
+USC00144087  38.1964  -99.9175  740.7 KS JETMORE 8NNW                       HCN      
+USC00144464  37.9411 -101.2492  913.8 KS LAKIN                              HCN      
+USC00144530  38.1817  -99.0994  608.1 KS LARNED                             HCN      
+USC00144559  38.9569  -95.2483  319.1 KS LAWRENCE                           HCN      
+USC00144588  39.3256  -94.9189  265.2 KS LEAVENWORTH                        HCN      
+USC00144695  37.0308 -100.9069  863.8 KS LIBERAL                            HCN      
+USC00144972  39.1972  -96.5814  323.1 KS MANHATTAN                          HCN      
+USC00145152  38.3772  -97.6097  463.3 KS MCPHERSON                          HCN      
+USC00145173  37.2767  -98.5800  448.1 KS MEDICINE LODGE                     HCN      
+USC00145363  39.1247  -97.7047  398.1 KS MINNEAPOLIS                        HCN      
+USC00145856  39.7408  -99.8361  735.5 KS NORTON 9SSE                        HCN      
+USC00145906  39.8228 -100.5164  788.2 KS OBERLIN                            HCN      
+USC00145972  38.8875  -94.7603  321.6 KS OLATHE 3E                          HCN      
+USC00146128  38.6133  -95.2808  275.8 KS OTTAWA                             HCN      
+USC00147093  39.7675 -101.8067 1016.8 KS SAINT FRANCIS                      HCN      
+USC00147271  38.4747 -100.9175  906.5 KS SCOTT CITY                         HCN      
+USC00147305  37.1322  -96.1800  274.9 KS SEDAN                              HCN      
+USC00147542  39.7772  -98.7783  554.7 KS SMITH CTR                          HCN      
+USC00148495  39.0147  -99.8722  745.2 KS WAKEENEY                           HCN      
+USC00150254  38.4536  -82.6131  170.7 KY ASHLAND                            HCN      
+USC00150381  36.8825  -83.8819  301.8 KY BARBOURVILLE                       HCN      
+USC00150619  37.5733  -84.2908  326.1 KY BEREA COLLEGE                      HCN      
+USC00152791  38.1228  -83.5328  256.0 KY CAVE RUN LAKE                      HCN      
+USC00153028  38.2022  -84.8825  140.8 KY FRANKFORT DOWNTOWN                 HCN      
+USC00153430  37.2572  -85.5011  178.3 KY GREENSBURG                         HCN      
+USC00153762  37.7558  -87.6456  136.9 KY HENDERSON 8 SSW                    HCN      
+USC00153994  36.8489  -87.5208  158.5 KY HOPKINSVILLE                       HCN      
+USC00154703  37.5108  -86.2892  189.0 KY LEITCHFIELD 2 N                    HCN      
+USC00157324  38.2000  -85.2000  222.5 KY SHELBYVILLE 1 E                    HCN      
+USC00158709  36.7333  -84.1500  286.5 KY WILLIAMSBURG                       HCN      
+USC00158714  38.6408  -84.5592  295.4 KY WILLIAMSTOWN                       HCN      
+USC00160098  31.3206  -92.4611   26.5 LA ALEXANDRIA                         HCN      
+USC00160205  30.7094  -90.5250   51.8 LA AMITE                              HCN      
+USC00160537  32.7314  -91.9144   45.7 LA BASTROP                            HCN      
+USC00161287  30.9594  -92.1786   24.4 LA BUNKIE                             HCN      
+USC00161411  32.5372  -92.3597   36.6 LA CALHOUN 2 N                        HCN      
+USC00162151  30.5269  -90.2147   13.4 LA COVINGTON 8 WNW                    HCN      
+USC00162534  30.0719  -91.0278    9.1 LA DONALDSONVILLE 4 SW                HCN      
+USC00163313  29.8233  -91.5442    3.7 LA FRANKLIN 3 NW                      HCN      
+USC00163800  30.4183  -92.0442   16.8 LA GRAND COTEAU                       HCN      
+USC00164407  29.6408  -90.8161    2.4 LA HOUMA                              HCN      
+USC00164700  30.2003  -92.6642    7.6 LA JENNINGS                           HCN      
+USC00167344  32.8922  -93.6450   93.0 LA PLAIN DEALING                      HCN      
+USC00168163  31.9497  -91.2336   23.8 LA ST JOSEPH 3 N                      HCN      
+USC00169013  29.7547  -90.7747    4.6 LA THIBODAUX 4 SE                     HCN      
+USC00169806  32.0997  -91.7022   24.4 LA WINNSBORO 5 SSE                    HCN      
+USC00170100  44.3739  -68.2592  143.3 ME ACADIA NP                          HCN      
+USC00170814  45.6603  -69.8120  325.8 ME BRASSUA DAM                        HCN      
+USC00171628  44.9197  -69.2417   90.5 ME CORINNA                            HCN      
+USC00172426  44.9067  -66.9919   25.9 ME EASTPORT                           HCN 72608
+USC00172765  44.6986  -70.1619  125.3 ME FARMINGTON                         HCN      
+USC00173046  44.2203  -69.7889   40.5 ME GARDINER                           HCN      
+USC00173944  46.2061  -67.8417  118.9 ME HOULTON 5N                         HCN      
+USC00174566  44.1000  -70.2167   54.9 ME LEWISTON                           HCN      
+USC00175304  45.6503  -68.7050  109.7 ME MILLINOCKET                        HCN      
+USC00176937  46.6539  -68.0089  182.6 ME PRESQUE ISLE                       HCN      
+USC00179891  45.1542  -67.3986   37.5 ME WOODLAND                           HCN      
+USC00180700  39.0303  -76.9314   44.2 MD BELTSVILLE                         HCN      
+USC00181385  38.5667  -76.0667    3.0 MD CAMBRIDGE WATER TRMT P             HCN      
+USC00181750  39.2167  -76.0519   12.2 MD CHESTERTOWN                        HCN      
+USC00182282  39.6419  -78.7561  222.5 MD CUMBERLAND 2                       HCN      
+USC00182523  38.8833  -75.8000   14.9 MD DENTON 2 E                         HCN      
+USC00183675  38.9689  -76.8042   45.7 MD GLENN DALE BELL STN                HCN      
+USC00185111  39.0847  -76.9003  121.9 MD LAUREL 3 W                         HCN      
+USC00185985  39.2739  -75.8700    9.1 MD MILLINGTON 1 SE                    HCN      
+USC00186620  39.4131  -79.4003  737.6 MD OAKLAND 1 SE                       HCN      
+USC00186770  38.6833  -76.6667   48.8 MD OWINGS FERRY LANDING               HCN      
+USC00187330  38.2122  -75.6822    6.1 MD PRINCESS ANNE                      HCN      
+USC00187806  38.7153  -76.1908    3.0 MD ROYAL OAK 2 SSW                    HCN      
+USC00188000  38.3650  -75.5892    3.0 MD SALISBURY                          HCN      
+USC00189440  39.5736  -76.9883  228.6 MD WESTMINSTER                        HCN      
+USC00189750  39.3333  -76.8667  140.2 MD WOODSTOCK                          HCN      
+USC00190120  42.3861  -72.5375   44.2 MA AMHERST                            HCN      
+USC00190535  42.4833  -71.2833   48.8 MA BEDFORD                            HCN      
+USC00190736  42.2122  -71.1136  190.5 MA BLUE HILL COOP                     HCN      
+USC00193213  42.2167  -73.3500  209.7 MA GREAT BARRINGTON 2N                HCN      
+USC00194105  42.6992  -71.1658   15.2 MA LAWRENCE                           HCN      
+USC00195246  41.5953  -70.9053    5.5 MA NEW BEDFORD COOP                   HCN      
+USC00196486  41.9819  -70.6961   13.7 MA PLYMOUTH-KINGSTON                  HCN      
+USC00196681  42.0500  -70.1833    6.1 MA PROVINCETOWN                       HCN      
+USC00196783  42.5239  -71.1250   33.5 MA READING                            HCN      
+USC00198367  41.9003  -71.0658    6.1 MA TAUNTON                            HCN      
+USC00198757  42.1608  -71.2461   51.8 MA WALPOLE 2                          HCN      
+USC00199316  42.1333  -71.4333   64.0 MA WEST MEDWAY                        HCN      
+USC00200032  41.9164  -84.0164  231.6 MI ADRIAN 2 NNE                       HCN      
+USC00200128  42.5800  -85.7892  228.6 MI ALLEGAN 5NE                        HCN      
+USC00200146  43.3869  -84.6481  221.9 MI ALMA                               HCN      
+USC00200230  42.2981  -83.6639  247.8 MI ANN ARBOR U OF MICH                HCN      
+USC00200779  43.7072  -85.4819  273.7 MI BIG RAPIDS WTP                     HCN      
+USC00201439  46.5192  -87.9858  487.4 MI CHAMPION VAN RIPER PK              HCN      
+USC00201486  46.3414  -86.9242  265.2 MI CHATHAM EXP FARM 2                 HCN      
+USC00201492  45.6522  -84.4725  177.4 MI CHEBOYGAN                          HCN      
+USC00201675  41.9622  -84.9925  299.9 MI COLDWATER ST SCHOOL                HCN      
+USC00202423  44.2839  -83.5036  178.6 MI E TAWAS                            HCN      
+USC00202737  45.6667  -86.7167  227.1 MI FAYETTE 4 SW                       HCN      
+USC00203632  43.6750  -86.4228  236.2 MI HART 3 WSW                         HCN      
+USC00203823  41.9353  -84.6411  329.2 MI HILLSDALE                          HCN      
+USC00204090  45.7858  -88.0842  326.4 MI IRON MTN-KINGSFORD WWTP            HCN      
+USC00204104  46.4656  -90.1892  435.9 MI IRONWOOD                           HCN      
+USC00204244  42.2833  -85.6000  289.6 MI KALAMAZOO STATE HOSPITAL           HCN      
+USC00205434  43.6089  -84.2011  195.1 MI MIDLAND                            HCN      
+USC00205662  43.5858  -84.7694  242.3 MI CENTRAL MICHIGAN UNIV              HCN      
+USC00205690  46.4122  -86.6625  207.3 MI MUNISING                           HCN      
+USC00205816  46.3517  -85.5164  241.4 MI NEWBERRY-LUCE CO RD COMMISSION     HCN      
+USC00206300  43.0161  -84.1800  222.5 MI OWOSSO WWTP                        HCN      
+USC00207690  42.4014  -86.2825  179.8 MI S HAVEN                            HCN      
+USC00207812  46.0556  -88.6275  442.0 MI STAMBAUGH 2SSE                     HCN      
+USC00210018  47.2992  -96.5161  276.5 MN ADA                                HCN      
+USC00210075  43.6064  -93.3019  374.9 MN ALBERT LEA 3SE                     HCN      
+USC00210252  48.3311  -96.8253  258.2 MN ARGYLE                             HCN      
+USC00210515  48.7094  -94.5853  333.5 MN BAUDETTE                           HCN      
+USC00211465  44.8000  -93.5833  219.5 MN CHASKA                             HCN      
+USC00211630  46.7053  -92.5239  385.6 MN CLOQUET                            HCN      
+USC00212142  46.8372  -95.8375  413.0 MN DETROIT LAKES 1 NNE                HCN      
+USC00212645  47.4581  -92.5303  440.4 MN EVELETH WWTP                       HCN      
+USC00212698  43.6447  -94.4656  361.8 MN FAIRMONT                           HCN      
+USC00212737  44.6661  -93.1756  292.6 MN FARMINGTON 3NW                     HCN      
+USC00212916  47.5639  -95.7247  396.2 MN FOSSTON 1 E                        HCN      
+USC00213290  43.7047  -92.5644  411.5 MN GRAND MEADOW                       HCN      
+USC00213303  47.2436  -93.4975  399.3 MN GRAND RAPIDS FORESTRY LAB          HCN      
+USC00214106  47.2256  -95.1919  454.2 MN ITASCA UNIV OF MINN                HCN      
+USC00214652  47.2467  -94.2228  396.8 MN LEECH LAKE                         HCN      
+USC00215175  47.6308  -93.6522  422.8 MN MARCELL 5NE                        HCN      
+USC00215400  45.1219  -95.9269  310.9 MN MILAN 1NW                          HCN      
+USC00215563  44.9342  -95.7458  301.8 MN MONTEVIDEO 1SW                     HCN      
+USC00215615  45.8775  -93.3147  310.3 MN MORA                               HCN      
+USC00215638  45.5900  -95.8744  347.5 MN MORRIS W CNTRL RSCH & OUTREACH     HCN      
+USC00215887  44.3006  -94.4897  271.3 MN NEW ULM 2 SE                       HCN      
+USC00216152  44.7628  -94.9297  335.3 MN OLIVIA 3E                          HCN      
+USC00216547  46.6694  -94.1089  381.0 MN PINE RVR DAM                       HCN      
+USC00216565  44.0139  -96.3253  505.4 MN PIPESTONE                          HCN      
+USC00217087  48.8486  -95.7675  319.1 MN ROSEAU                             HCN      
+USC00217405  44.3222  -93.9656  242.3 MN ST PETER                           HCN      
+USC00217460  46.7953  -93.3211  376.1 MN SANDY LAKE DAM LIBBY               HCN      
+USC00218419  47.0258  -91.6653  190.5 MN TWO HARBORS                        HCN      
+USC00218618  47.0997  -94.5725  410.3 MN WALKER                             HCN      
+USC00219046  43.7639  -94.1661  338.3 MN WINNEBAGO                          HCN      
+USC00219249  44.2997  -92.6656  298.7 MN ZUMBROTA                           HCN      
+USC00220021  33.8300  -88.5206   57.3 MS ABERDEEN                           HCN      
+USC00220488  34.3161  -89.9558   71.9 MS BATESVILLE                         HCN      
+USC00220955  34.6344  -88.5622  149.4 MS BOONEVILLE                         HCN      
+USC00221094  31.5447  -90.4581  132.6 MS BROOKHAVEN CITY                    HCN      
+USC00221389  32.6714  -90.0361   76.2 MS CANTON 4N                          HCN      
+USC00221707  34.1864  -90.5572   52.7 MS CLARKSDALE                         HCN      
+USC00221865  31.2503  -89.8361   45.7 MS COLUMBIA                           HCN      
+USC00221880  33.4678  -88.3847   44.2 MS COLUMBUS                           HCN      
+USC00221962  34.9158  -88.6011  121.6 MS CORINTH 5 WSW                      HCN      
+USC00222094  31.9461  -90.3775  148.4 MS CRYSTAL SPRINGS EXP STN            HCN      
+USC00223107  32.3600  -89.4208  137.2 MS FOREST                             HCN      
+USC00223605  33.3592  -91.0600   38.1 MS GREENVILLE                         HCN      
+USC00223887  31.2547  -89.3392  117.3 MS HATTIESBURG 5SW                    HCN      
+USC00223975  34.8042  -90.0103   98.1 MS HERNANDO                           HCN      
+USC00224173  34.8219  -89.4347  147.2 MS HOLLY SPRINGS 4 N                  HCN      
+USC00224776  33.0583  -89.5797  125.0 MS KOSCIUSKO                          HCN      
+USC00224939  31.6756  -89.1236   68.6 MS LAUREL                             HCN      
+USC00225247  33.1356  -89.0711  177.1 MS LOUISVILLE                         HCN      
+USC00225987  31.5519  -90.1058   58.2 MS MONTICELLO                         HCN      
+USC00226009  33.4517  -90.5097   35.7 MS MOORHEAD                           HCN      
+USC00226177  31.5889  -91.3408   59.4 MS NATCHEZ                            HCN      
+USC00226718  30.3961  -88.4781    3.7 MS PASCAGOULA 3 NE                    HCN      
+USC00227111  34.1383  -89.0058  150.0 MS PONTOTOC EXP STN                   HCN      
+USC00227128  30.8408  -89.5453   95.4 MS POPLARVILLE EXP STN                HCN      
+USC00227132  31.9850  -90.9719   36.6 MS PORT GIBSON 1 NE                   HCN      
+USC00228374  33.4692  -88.7822   56.4 MS STATE UNIV                         HCN      
+USC00229079  34.3725  -89.5308  131.1 MS UNIVERSITY                         HCN      
+USC00229400  34.1647  -89.6350  125.0 MS WATER VALLEY                       HCN      
+USC00229426  30.2947  -89.3831    2.4 MS WAVELAND                           HCN      
+USC00229439  31.6772  -88.6708   61.0 MS WAYNESBORO 2 W                     HCN      
+USC00229793  31.0931  -91.2325  121.9 MS WOODVILLE 4 ESE                    HCN      
+USC00229860  32.9028  -90.3817   32.6 MS YAZOO CITY 5 NNE                   HCN      
+USC00230204  38.1894  -94.0244  264.3 MO APPLETON CITY                      HCN      
+USC00230856  39.3444  -91.1711  272.8 MO BOWLING GREEN 1 E                  HCN      
+USC00231037  39.4247  -93.1331  201.8 MO BRUNSWICK                          HCN      
+USC00231364  36.1875  -89.6600   82.3 MO CARUTHERSVILLE                     HCN      
+USC00231711  38.3950  -93.7711  234.7 MO CLINTON                            HCN      
+USC00231822  40.2394  -94.6833  337.7 MO CONCEPTION                         HCN      
+USC00232289  36.6206  -90.8125   88.1 MO DONIPHAN                           HCN      
+USC00232809  37.7919  -90.4097  274.3 MO FARMINGTON                         HCN      
+USC00234271  38.5847  -92.1831  184.4 MO JEFFERSON CITY WTP                 HCN      
+USC00234705  37.5983  -94.2842  295.0 MO LAMAR 7N                           HCN      
+USC00234825  37.6850  -92.6939  379.8 MO LEBANON 2W                         HCN      
+USC00234850  38.8969  -94.3397  320.0 MO LEES SUMMIT REED WR                HCN      
+USC00234904  39.1828  -93.8550  251.5 MO LEXINGTON 3E                       HCN      
+USC00235027  37.3908  -93.9492  328.3 MO LOCKWOOD                           HCN      
+USC00235253  37.3056  -89.9750  133.5 MO MARBLE HILL                        HCN      
+USC00235541  39.1714  -91.8717  231.6 MO MEXICO                             HCN      
+USC00235671  39.4033  -92.4325  265.2 MO MOBERLY                            HCN      
+USC00235834  37.1542  -92.2619  446.8 MO MTN GROVE 2 N                      HCN      
+USC00235976  36.8650  -94.3603  314.9 MO NEOSHO                             HCN      
+USC00237263  37.9567  -91.7761  357.5 MO ROLLA MISSOURI S&T                 HCN      
+USC00237963  40.2472  -93.7158  266.7 MO SPICKARD 7 W                       HCN 72540
+USC00238051  39.9703  -91.8875  214.9 MO STEFFENVILLE                       HCN      
+USC00238223  38.9664  -93.4194  205.7 MO SWEET SPRINGS                      HCN      
+USC00238466  38.2597  -93.4136  229.8 MO TRUMAN DAM & RSVR                  HCN      
+USC00238523  40.4750  -93.0031  323.1 MO UNIONVILLE                         HCN      
+USC00238725  38.8347  -91.1389  252.1 MO WARRENTON 1 N                      HCN      
+USC00240199  46.1344 -112.9747 1635.6 MT ANACONDA                           HCN      
+USC00240364  47.4925 -112.3969 1240.5 MT AUGUSTA                            HCN      
+USC00240780  45.8325 -109.9511 1249.7 MT BIG TIMBER                         HCN      
+USC00241044  45.6622 -111.0464 1497.5 MT BOZEMAN MONTANA STATE UNIV         HCN      
+USC00241552  47.2192 -111.7108 1024.1 MT CASCADE 5 S                        HCN      
+USC00241722  48.5883 -109.2267  737.6 MT CHINOOK                            HCN      
+USC00241737  47.8206 -112.1922 1172.0 MT CHOTEAU                            HCN      
+USC00242409  45.2089 -112.6389 1563.3 MT DILLON U OF MONTANA WESTERN        HCN      
+USC00242689  45.8864 -104.5478 1046.1 MT EKALAKA                            HCN      
+USC00242793  45.3394 -111.7122 1509.7 MT ENNIS                              HCN      
+USC00243013  46.8217 -108.3725 1002.8 MT FLATWILLOW 4 ENE                   HCN      
+USC00243089  48.7778 -107.4536  792.2 MT FORKS 4 NNE                        HCN      
+USC00243110  48.4983 -109.8014  815.3 MT FT ASSINIBOINE                     HCN      
+USC00243139  48.7783 -114.8997  914.4 MT FORTINE 1 N                        HCN      
+USC00243581  47.1058 -104.7175  632.5 MT GLENDIVE                           HCN      
+USC00243885  46.2461 -114.1681 1092.7 MT HAMILTON                           HCN      
+USC00244038  44.8667 -111.3392 1977.8 MT HEBGEN DAM                         HCN      
+USC00244345  45.9228 -108.2453  924.8 MT HUNTLEY EXP STN                    HCN      
+USC00244364  45.9353 -107.1375  944.9 MT HYSHAM 25 SSE                      HCN      
+USC00244522  47.3144 -106.9103  798.6 MT JORDAN                             HCN      
+USC00244558  48.3042 -114.2642  903.1 MT KALISPELL GLACIER AP               HCN 72779
+USC00245015  48.4036 -115.5392  638.9 MT LIBBY 1 NE RS                      HCN      
+USC00245080  45.4956 -110.5589 1537.4 MT LIVINGSTON 12 S                    HCN      
+USC00245338  48.3939 -107.7286  680.0 MT MALTA 7 E                          HCN      
+USC00245572  48.4828 -104.4514  591.9 MT MEDICINE LAKE 3 SE                 HCN      
+USC00245668  46.7697 -105.0342  777.2 MT MILDRED 7 NNW                      HCN      
+USC00245761  47.0572 -109.9511 1310.6 MT MOCCASIN EXP STN                   HCN      
+USC00246157  45.4875 -111.6336 1446.3 MT NORRIS MADISON PWR HOUSE           HCN      
+USC00246472  46.3158 -113.3000 1606.3 MT PHILIPSBURG RS                     HCN      
+USC00246601  46.4178 -104.5164  847.3 MT PLEVNA                             HCN      
+USC00246918  45.1769 -109.2572 1720.9 MT RED LODGE                          HCN      
+USC00247286  47.3150 -114.0983  888.5 MT SAINT IGNATIUS                     HCN      
+USC00247318  47.3036 -115.0908  810.8 MT SAINT REGIS 1 NE                   HCN      
+USC00247382  47.4536 -104.3378  602.9 MT SAVAGE                             HCN      
+USC00248501  48.3119 -112.2492 1160.4 MT VALIER                             HCN      
+USC00248569  47.8800 -105.3686  696.2 MT VIDA 6 NE                          HCN      
+USC00248597  45.2925 -111.9444 1777.9 MT VIRGINIA CITY                      HCN      
+USC00248857  44.6500 -111.1000 2029.7 MT WEST YELLOWSTONE                   HCN      
+USC00248930  46.5436 -110.9000 1536.2 MT WHITE SULPHUR SPRINGS #2           HCN      
+USC00250070  41.6853  -98.0083  547.1 NE ALBION                             HCN      
+USC00250130  42.1103 -102.8967 1217.4 NE ALLIANCE 1WNW                      HCN      
+USC00250375  41.0408  -96.3811  340.8 NE ASHLAND #2                         HCN      
+USC00250420  42.5136  -99.0303  648.6 NE ATKINSON 3SW                       HCN      
+USC00250435  40.3706  -95.7469  295.0 NE AUBURN 5 ESE                       HCN      
+USC00250622  40.2994  -96.7500  395.3 NE BEATRICE 1N                        HCN      
+USC00250640  40.1306  -99.8278  654.7 NE BEAVER CITY                        HCN      
+USC00251145  41.6681 -103.1039 1118.3 NE BRIDGEPORT                         HCN      
+USC00251200  41.4083  -99.6750  763.2 NE BROKEN BOW 2 W                     HCN      
+USC00252020  40.6092  -96.8719  445.0 NE CRETE 4ESE                         HCN      
+USC00252100  40.6344 -100.5219  794.3 NE CURTIS                             HCN      
+USC00252205  41.2483  -97.0581  509.6 NE DAVID CITY 4E                      HCN      
+USC00252820  40.0475  -97.1889  445.9 NE FAIRBURY 7S                        HCN      
+USC00252840  40.6422  -97.5928  499.9 NE FAIRMONT                           HCN      
+USC00253035  40.1000  -98.9667  565.4 NE FRANKLIN                           HCN      
+USC00253175  40.5394  -97.5906  497.7 NE GENEVA                             HCN      
+USC00253185  41.4514  -97.7644  484.6 NE GENOA 2 W                          HCN      
+USC00253365  40.9394 -100.1514  793.4 NE GOTHENBURG                         HCN      
+USC00253615  42.6858 -103.8842 1478.3 NE HARRISON                           HCN      
+USC00253630  42.6167  -97.2608  438.9 NE HARTINGTON                         HCN      
+USC00253660  40.6472  -98.3836  590.7 NE HASTINGS 4N                        HCN      
+USC00253715  42.5119 -102.6944 1159.8 NE HAY SPRINGS 12 S                   HCN      
+USC00253735  40.1750  -97.5903  451.1 NE HEBRON                             HCN      
+USC00253910  40.4517  -99.3803  707.1 NE HOLDREGE                           HCN      
+USC00254110  40.5092 -101.6514 1004.0 NE IMPERIAL                           HCN      
+USC00254440  41.2453 -103.6344 1435.0 NE KIMBALL 2NE                        HCN      
+USC00254900  41.1489 -102.6361 1170.1 NE LODGEPOLE                          HCN      
+USC00254985  41.2789  -98.9697  630.9 NE LOUP CITY                          HCN      
+USC00255080  41.8292  -97.4500  481.6 NE MADISON                            HCN      
+USC00255310  40.2289 -100.6100  793.1 NE MC COOK                            HCN      
+USC00255470  42.9194 -101.7089  986.0 NE MERRIMAN                           HCN      
+USC00255565  40.5156  -98.9514  658.4 NE MINDEN                             HCN      
+USC00256040  41.4958  -98.7742  599.5 NE N LOUP                             HCN      
+USC00256135  42.0669  -97.9653  524.0 NE OAKDALE                            HCN      
+USC00256570  40.1117  -96.1514  362.4 NE PAWNEE CITY                        HCN      
+USC00256970  42.0650 -100.2472  819.9 NE PURDUM                             HCN      
+USC00257070  40.0978  -98.5197  527.9 NE RED CLOUD                          HCN      
+USC00257515  41.2078  -98.4608  552.3 NE SAINT PAUL                         HCN      
+USC00257715  40.9169  -97.0897  457.5 NE SEWARD                             HCN      
+USC00258133  41.4581 -100.5986  921.1 NE STAPLETON 5W                       HCN      
+USC00258395  40.6661  -96.1892  335.3 NE SYRACUSE                           HCN      
+USC00258465  40.3544  -96.1939  349.9 NE TECUMSEH 1S                        HCN      
+USC00258480  41.7881  -96.2325  369.4 NE TEKAMAH                            HCN      
+USC00258915  42.3017  -96.9003  432.8 NE WAKEFIELD 3NW                      HCN      
+USC00259090  40.8639  -96.1414  335.3 NE WEEPING WATER                      HCN      
+USC00259510  40.8678  -97.5922  490.7 NE YORK                               HCN      
+USC00260507  39.4931 -117.0675 2066.5 NV AUSTIN #2                          HCN      
+USC00261071  35.9800 -114.8464  762.0 NV BOULDER CITY                       HCN      
+USC00262780  39.4572 -118.7811 1208.5 NV FALLON EXP STN                     HCN      
+USC00263245  40.9567 -117.4922 1339.3 NV GOLCONDA                           HCN      
+USC00264698  40.1700 -118.4775 1211.0 NV LOVELOCK                           HCN      
+USC00264950  39.4142 -114.7739 1911.1 NV MCGILL                             HCN      
+USC00265168  38.3878 -118.1092 1396.0 NV MINA                               HCN      
+USC00267369  35.4661 -114.9217 1079.0 NV SEARCHLIGHT                        HCN      
+USC00268988  41.1169 -114.9786 1723.0 NV WELLS                              HCN      
+USC00270706  44.3064  -71.6575  359.7 NH BETHLEHEM 2                        HCN      
+USC00272174  43.1419  -70.9500   23.2 NH DURHAM                             HCN      
+USC00272999  45.0900  -71.2906  502.9 NH FIRST CONNECTICUT LAKE             HCN      
+USC00273850  43.7053  -72.2856  178.0 NH HANOVER                            HCN      
+USC00274399  42.9389  -72.3247  155.8 NH KEENE                              HCN      
+USC00280734  40.8292  -75.0833   80.2 NJ BELVIDERE BRG                      HCN      
+USC00280907  40.8917  -74.3964   85.3 NJ BOONTON 1 SE                       HCN      
+USC00281582  41.0300  -74.4247  237.1 NJ CHARLOTTEBURG RSVR                 HCN      
+USC00283029  40.5742  -74.8817   80.8 NJ FLEMINGTON 5 NNW                   HCN      
+USC00283951  40.2664  -74.5642   30.5 NJ HIGHTSTOWN 2 W                     HCN      
+USC00284229  39.7994  -74.7806   30.5 NJ INDIAN MILLS 2 W                   HCN      
+USC00284987  40.2969  -74.0017    9.1 NJ LONG BRANCH-OAKHURST               HCN      
+USC00285728  39.9683  -74.8650   10.1 NJ MOORESTOWN 4 E                     HCN      
+USC00286055  40.4728  -74.4225   33.8 NJ NEW BRUNSWICK 3 SE                 HCN      
+USC00287079  40.6036  -74.4025   27.4 NJ PLAINFIELD                         HCN      
+USC00288816  39.9500  -74.2167    3.0 NJ TOMS RIVER                         HCN      
+USC00290692  36.8350 -108.0006 1720.3 NM AZTEC RUINS NM                     HCN      
+USC00290858  35.5297 -104.0936 1371.6 NM BELL RANCH                         HCN      
+USC00291469  32.3478 -104.2225  951.0 NM CARLSBAD                           HCN      
+USC00291515  33.6308 -105.8964 1647.4 NM CARRIZOZO 1SW                      HCN      
+USC00291664  36.9178 -106.5781 2392.7 NM CHAMA                              HCN      
+USC00291813  36.4661 -104.9456 1993.4 NM CIMARRON 4 SW                      HCN      
+USC00292608  36.9358 -107.0000 2070.5 NM DULCE                              HCN      
+USC00292848  33.1461 -107.1842 1393.2 NM ELEPHANT BUTTE DAM                 HCN      
+USC00293265  32.7900 -108.2269 1874.2 NM FT BAYARD 4W                       HCN      
+USC00293294  34.4667 -104.2319 1226.8 NM FT SUMNER                          HCN      
+USC00293368  32.2261 -108.0867 1365.2 NM GAGE                               HCN      
+USC00294369  35.7783 -106.6872 1908.7 NM JEMEZ SPRINGS                      HCN      
+USC00294426  32.6161 -106.7403 1316.1 NM JORNADA EXP RANGE                  HCN      
+USC00294862  35.5678 -105.2131 1935.2 NM LAS VEGAS WWTP                     HCN      
+USC00295150  34.7675 -106.7611 1475.2 NM LOS LUNAS 3 SSW                    HCN      
+USC00295273  33.8225 -108.9417 2148.8 NM LUNA RS                            HCN      
+USC00295960  32.9542 -105.8231 2075.1 NM MTN PARK                           HCN      
+USC00295965  34.5208 -106.2606 1987.3 NM MOUNTAINAIR                        HCN      
+USC00296435  32.3789 -106.0925 1286.6 NM OROGRANDE                          HCN      
+USC00297323  36.7100 -105.4164 2641.7 NM RED RVR                            HCN      
+USC00297867  35.1086 -103.3283 1289.3 NM SAN JON                            HCN      
+USC00298107  34.9561 -104.7217 1417.3 NM SANTA ROSA                         HCN      
+USC00298387  34.0606 -106.8842 1399.9 NM SOCORRO                            HCN      
+USC00298501  36.3628 -104.5850 1794.7 NM SPRINGER                           HCN      
+USC00298535  32.2822 -106.7597 1184.5 NM STATE UNIV                         HCN      
+USC00299156  35.2006 -103.6867 1245.4 NM TUCUMCARI 4 NE                     HCN      
+USC00299165  33.0719 -106.0411 1347.8 NM TULAROSA                           HCN      
+USC00300023  42.1014  -77.2344  304.5 NY ADDISON                            HCN      
+USC00300085  42.2797  -77.7664  586.4 NY ALFRED                             HCN      
+USC00300093  42.1003  -78.7497  457.2 NY ALLEGANY SP                        HCN      
+USC00300183  42.3108  -78.0231  449.6 NY ANGELICA                           HCN      
+USC00300321  42.9328  -76.5447  234.7 NY AUBURN                             HCN      
+USC00300443  43.0297  -78.1683  278.3 NY BATAVIA                            HCN      
+USC00300889  40.9519  -72.2978   12.8 NY BRIDGEHAMPTON                      HCN      
+USC00300937  43.2161  -77.9528  151.8 NY BROCKPORT                          HCN      
+USC00301401  44.8786  -73.3953   47.9 NY CHAZY                              HCN      
+USC00301752  42.7167  -74.9267  383.1 NY COOPERSTOWN                        HCN      
+USC00301799  42.6000  -76.1833  344.1 NY CORTLAND                           HCN      
+USC00301966  44.7192  -73.7206  408.4 NY DANNEMORA                          HCN      
+USC00301974  42.5647  -77.7175  201.2 NY DANSVILLE                          HCN      
+USC00302060  42.0628  -75.4264  304.8 NY DEPOSIT                            HCN      
+USC00302129  41.0072  -73.8344   61.0 NY DOBBS FERRY-ARDSLEY                HCN      
+USC00302610  42.0997  -76.8358  288.6 NY ELMIRA                             HCN      
+USC00303033  42.4497  -79.3120  231.6 NY FREDONIA                           HCN      
+USC00303184  42.8767  -77.0308  218.8 NY GENEVA RSCH FARM                   HCN      
+USC00303259  41.5167  -73.9333   83.8 NY GLENHAM                            HCN      
+USC00303319  43.0492  -74.3592  246.9 NY GLOVERSVILLE                       HCN      
+USC00303773  42.7747  -77.6083  274.9 NY HEMLOCK                            HCN      
+USC00304102  43.7547  -74.2756  509.0 NY INDIAN LAKE 2SW                    HCN      
+USC00304174  42.4492  -76.4492  292.6 NY ITHACA CORNELL UNIV                HCN      
+USC00304555  44.3042  -73.9839  575.5 NY LAKE PLACID 2 S                    HCN      
+USC00304647  44.7583  -74.6692  142.0 NY LAWRENCEVILLE 3 SW                 HCN      
+USC00304791  43.0603  -74.8686  272.2 NY LITTLE FALLS CITY RSCH             HCN      
+USC00304796  43.0333  -74.8667  109.7 NY LITTLE FALLS MILL ST               HCN      
+USC00304844  43.1522  -78.6533  195.7 NY LOCKPORT 2SE                       HCN      
+USC00304912  43.7928  -75.4828  263.0 NY LOWVILLE                           HCN      
+USC00304996  44.8417  -74.3061  267.6 NY MALONE                             HCN      
+USC00305113  42.4694  -75.0106  373.4 NY EMMONS                             HCN      
+USC00305426  41.7719  -74.1536  336.5 NY MOHONK LAKE                        HCN      
+USC00305512  42.8417  -75.7264  512.4 NY MORRISVILLE 6 SW                   HCN      
+USC00306085  42.5117  -75.5197  301.4 NY NORWICH                            HCN      
+USC00306164  44.7281  -75.4442   85.3 NY OGDENSBURG 4 NE                    HCN      
+USC00306314  43.4500  -76.5369   98.8 NY OSWEGO                             HCN      
+USC00306774  41.3892  -74.6906  176.8 NY PORT JERVIS                        HCN      
+USC00307484  43.0414  -73.8214   99.4 NY SARATOGA SPRINGS 4 SW              HCN      
+USC00307633  40.9586  -73.1047   12.2 NY SETAUKET STRONG                    HCN      
+USC00308248  43.8914  -75.0361  515.1 NY STILLWATER RSVR                    HCN      
+USC00308600  42.7511  -73.6850    4.6 NY TROY L&D                           HCN      
+USC00308631  44.2308  -74.4383  512.1 NY TUPPER LAKE SUNMOUNT               HCN      
+USC00308906  41.5514  -74.1628  115.8 NY WALDEN 1 ESE                       HCN      
+USC00308910  42.7211  -78.5436  342.9 NY WALES                              HCN      
+USC00308944  44.1481  -74.9003  460.2 NY WANAKENA RNGR SCHOOL               HCN      
+USC00309000  43.9761  -75.8753  151.5 NY WATERTOWN                          HCN      
+USC00309292  41.3906  -73.9608   97.5 NY W PT                               HCN      
+USC00309670  41.2664  -73.7975  204.2 NY YORKTOWN HTS 1W                    HCN      
+USC00310090  35.4000  -80.1994  185.9 NC ALBEMARLE                          HCN      
+USC00311677  35.9086  -79.0797  152.4 NC CHAPEL HILL 2 W                    HCN      
+USC00312635  36.0164  -76.5517    3.0 NC EDENTON                            HCN      
+USC00312719  36.3097  -76.2050    2.4 NC ELIZABETH CITY                     HCN      
+USC00313017  35.0592  -78.8589   29.3 NC FAYETTEVILLE (PWC)                 HCN      
+USC00313969  36.3489  -78.4119  146.3 NC HENDERSON 2 NNW                    HCN      
+USC00313976  35.3297  -82.4492  658.4 NC HENDERSONVILLE 1 NE                HCN      
+USC00314055  35.0564  -83.1983 1173.5 NC HIGHLANDS                          HCN      
+USC00314684  35.1967  -77.5433    7.3 NC KINSTON 7 SE                       HCN      
+USC00314938  35.9147  -81.5375  352.0 NC LENOIR                             HCN      
+USC00315123  36.1025  -78.3042   79.2 NC LOUISBURG                          HCN      
+USC00315177  34.6269  -79.0250   34.1 NC LUMBERTON                          HCN      
+USC00315340  35.6847  -82.0083  429.8 NC MARION                             HCN      
+USC00315356  35.8033  -82.6658  585.2 NC MARSHALL                           HCN      
+USC00315771  34.9797  -80.5233  164.6 NC MONROE 2 SE                        HCN      
+USC00315830  34.7336  -76.7358    3.0 NC MOREHEAD CITY 2 WNW                HCN      
+USC00315838  35.7297  -81.6728  359.7 NC MORGANTON                          HCN      
+USC00315890  36.4961  -80.6522  329.2 NC MT AIRY 2 W                        HCN      
+USC00317202  36.3797  -79.6944  271.3 NC REIDSVILLE 2 NW                    HCN      
+USC00317615  35.6836  -80.4822  213.4 NC SALISBURY                          HCN      
+USC00317994  35.5175  -78.3444   45.7 NC SMITHFIELD                         HCN      
+USC00318113  33.9947  -78.0078    6.1 NC SOUTHPORT 5 N                      HCN      
+USC00318292  35.8100  -80.8808  244.8 NC STATESVILLE 2 NNE                  HCN      
+USC00318500  35.8842  -77.5386   10.7 NC TARBORO 1 S                        HCN      
+USC00318694  36.4003  -81.3053  863.8 NC TRANSOU                            HCN      
+USC00319147  35.4867  -82.9681  810.2 NC WAYNESVILLE 1 E                    HCN      
+USC00319476  35.6939  -77.9461   33.5 NC WILSON 3 SW                        HCN      
+USC00320941  48.8217 -100.4528  493.5 ND BOTTINEAU                          HCN      
+USC00321408  46.8769  -97.2328  285.0 ND CASSELTON AGRONOMY FARM            HCN      
+USC00321871  48.9158 -103.2981  597.1 ND CROSBY                             HCN      
+USC00322188  46.8919 -102.8117  755.9 ND DICKINSON EXP STN                  HCN      
+USC00322365  47.3467 -102.5869  666.6 ND DUNN CTR 1E                        HCN      
+USC00323207  46.0500 -100.6667  510.5 ND FT YATES 4 SW                      HCN      
+USC00323287  46.1583  -98.3989  437.4 ND FULLERTON 1 ESE                    HCN      
+USC00323594  48.4181  -97.4247  252.1 ND GRAFTON                            HCN      
+USC00323621  47.9217  -97.0975  253.0 ND GRAND FORKS UNIV (NWS)             HCN      
+USC00324178  45.9925 -102.6442  816.9 ND HETTINGER                          HCN      
+USC00324203  47.4389  -97.0664  277.4 ND HILLSBORO 3 N                      HCN      
+USC00324418  46.8844  -98.6850  447.1 ND JAMESTOWN STATE HOSP               HCN      
+USC00324958  48.7622  -98.3447  492.3 ND LANGDON EXP FARM                   HCN      
+USC00325220  46.4444  -97.6928  350.2 ND LISBON                             HCN      
+USC00325479  46.8128 -100.9097  533.4 ND MANDAN EXP STN                     HCN      
+USC00326015  46.6706 -100.2294  529.4 ND MOFFIT 3 SE                        HCN      
+USC00326155  46.3747 -102.3211  739.4 ND MOTT                               HCN      
+USC00326255  46.5111  -99.7725  603.5 ND NAPOLEON                           HCN      
+USC00326315  46.5406 -102.8692  792.5 ND NEW ENGLAND                        HCN      
+USC00327530  46.8886 -102.3192  752.9 ND RICHARDTON ABBEY                   HCN      
+USC00328792  48.3706 -100.3908  451.1 ND TOWNER 2 NE                        HCN      
+USC00329100  46.3233  -96.6108  291.4 ND WAHPETON 3 N                       HCN      
+USC00329445  48.6061 -100.2911  449.0 ND WILLOW CITY                        HCN      
+USC00331072  40.8125  -82.9697  291.1 OH BUCYRUS                            HCN      
+USC00331152  40.2686  -80.9981  384.0 OH CADIZ                              HCN      
+USC00331541  41.0517  -81.9361  359.7 OH CHIPPEWA LAKE                      HCN      
+USC00331592  39.6103  -82.9556  205.7 OH CIRCLEVILLE                        HCN      
+USC00331890  40.2403  -81.8711  231.6 OH COSHOCTON WPC PLT                  HCN      
+USC00332098  41.2783  -84.3847  213.4 OH DEFIANCE                           HCN      
+USC00332119  40.3175  -83.0739  280.4 OH DELAWARE                           HCN      
+USC00332791  41.0461  -83.6622  234.1 OH FINDLAY WPCC                       HCN      
+USC00333375  40.1033  -84.6503  313.9 OH GREENVILLE WTP                     HCN      
+USC00333758  39.2333  -83.6092  290.5 OH HILLSBORO                          HCN      
+USC00333780  41.3072  -81.1475  374.9 OH HIRAM                              HCN      
+USC00334189  40.6486  -83.6061  303.9 OH KENTON                             HCN      
+USC00335041  39.6522  -81.8561  231.6 OH MC CONNELLSVILLE LK 7              HCN      
+USC00335297  40.5375  -81.9197  249.6 OH MILLERSBURG                        HCN      
+USC00335315  40.7692  -80.8561  356.6 OH MILLPORT 4 NE                      HCN      
+USC00336118  41.2633  -82.6147  204.2 OH NORWALK WWTP                       HCN      
+USC00336196  41.2803  -82.2186  248.7 OH OBERLIN                            HCN      
+USC00336600  39.8386  -81.9167  310.9 OH PHILO 3 SW                         HCN      
+USC00336781  38.7569  -82.8872  164.6 OH PORTSMOUTH-SCIOTOVILLE             HCN      
+USC00338313  41.1044  -83.1878  225.6 OH TIFFIN                             HCN      
+USC00338534  40.8333  -83.2833  260.3 OH UPPER SANDUSKY                     HCN      
+USC00338552  40.0992  -83.7822  310.6 OH URBANA WRF                         HCN      
+USC00338769  41.2019  -80.8106  274.3 OH WARREN 3 S                         HCN      
+USC00338822  41.5183  -84.1453  228.6 OH WAUSEON WTP                        HCN      
+USC00338830  39.1114  -82.9797  174.3 OH WAVERLY                            HCN      
+USC00339312  40.7814  -81.9197  310.9 OH WOOSTER EXP STN                    HCN      
+USC00340017  34.7864  -96.6850  309.4 OK ADA                                HCN      
+USC00340179  34.5903  -99.3344  420.6 OK ALTUS IRIG RSCH STN                HCN      
+USC00340256  34.2208  -95.6150  143.3 OK ANTLERS                            HCN      
+USC00340292  34.1772  -97.1617  256.3 OK ARDMORE                            HCN      
+USC00340593  36.8125 -100.5308  751.3 OK BEAVER                             HCN      
+USC00340908  36.7236 -102.4806 1259.7 OK BOISE CITY 2 E                     HCN      
+USC00341243  36.8003  -99.6400  588.6 OK BUFFALO 2 SSW                      HCN      
+USC00341504  35.1756  -98.5794  451.4 OK CARNEGIE 5 NE                      HCN      
+USC00341724  36.7672  -98.4244  377.6 OK CHEROKEE 4W                        HCN      
+USC00341828  36.3225  -95.5808  179.2 OK CLAREMORE 2 ENE                    HCN      
+USC00342678  34.0000  -96.3686  182.9 OK DURANT                             HCN      
+USC00342912  36.4194  -97.8747  379.5 OK ENID                               HCN      
+USC00342944  35.2164  -99.8628  627.9 OK ERICK                              HCN      
+USC00343497  35.6306  -98.3217  478.8 OK GEARY                              HCN      
+USC00343628  36.5914 -101.6181  999.1 OK GOODWELL RSCH STN                  HCN      
+USC00343821  35.8161  -97.3950  338.3 OK GUTHRIE 5S                         HCN      
+USC00343871  35.5850  -99.3953  554.7 OK HAMMON 3 SSW                       HCN      
+USC00344055  36.0942  -97.8350  357.8 OK HENNESSEY 4 ESE                    HCN      
+USC00344235  35.0567  -96.3861  260.6 OK HOLDENVILLE 2SSE                   HCN      
+USC00344298  36.8594 -101.2214  914.7 OK HOOKER                             HCN      
+USC00344573  36.6856  -97.7486  317.9 OK JEFFERSON 3SE                      HCN      
+USC00344766  36.9031 -102.9650 1325.9 OK KENTON                             HCN      
+USC00344861  35.8583  -97.9294  320.0 OK KINGFISHER                         HCN      
+USC00345063  34.6097  -98.4572  350.5 OK LAWTON                             HCN      
+USC00345509  34.8911  -99.5017  486.2 OK MANGUM                             HCN      
+USC00345779  35.5050  -96.9772  281.9 OK MEEKER 5 W                         HCN      
+USC00345855  36.8833  -94.8833  245.4 OK MIAMI                              HCN      
+USC00346130  35.7781  -95.3339  157.9 OK MUSKOGEE                           HCN      
+USC00346139  36.2283  -99.1700  576.1 OK MUTUAL                             HCN      
+USC00346278  36.9422  -97.0058  348.1 OK NEWKIRK 5NE                        HCN      
+USC00346629  36.1217  -98.3150  370.3 OK OKEENE                             HCN      
+USC00346638  35.4253  -96.3033  285.0 OK OKEMAH                             HCN      
+USC00346670  35.6239  -96.0250  197.2 OK OKMULGEE WTR WKS                   HCN      
+USC00346926  34.7253  -97.2814  286.5 OK PAULS VALLEY 4 WSW                 HCN      
+USC00346935  36.6692  -96.3472  254.5 OK PAWHUSKA                           HCN      
+USC00347012  36.2886  -97.2897  312.4 OK PERRY                              HCN      
+USC00347254  35.0539  -94.6264  134.1 OK POTEAU WTR WKS                     HCN      
+USC00348501  36.1175  -97.0950  272.8 OK STILLWATER 2 W                     HCN      
+USC00348677  35.9369  -94.9644  259.1 OK TAHLEQUAH                          HCN      
+USC00349395  34.1747  -97.9964  278.0 OK WAURIKA                            HCN      
+USC00349422  35.5200  -98.6986  493.2 OK WEATHERFORD                        HCN      
+USC00349445  35.4814  -95.2039  167.6 OK WEBBERS FALLS 5 WSW                HCN      
+USC00350304  42.2131 -122.7147  527.0 OR ASHLAND                            HCN      
+USC00350694  44.0569 -121.2850 1115.6 OR BEND                               HCN      
+USC00351055  42.0464 -124.2878   26.2 OR BROOKINGS                          HCN      
+USC00351433  44.3914 -122.4811  292.6 OR CASCADIA                           HCN      
+USC00351765  45.2408 -120.1789  878.1 OR CONDON                             HCN      
+USC00351862  44.6342 -123.1900   68.6 OR CORVALLIS STATE UNIV               HCN      
+USC00351897  43.7917 -123.0275  181.4 OR COTTAGE GROVE 2E                   HCN      
+USC00351946  42.8978 -122.1339 1976.6 OR CRATER LAKE NPS HQ                 HCN      
+USC00352135  42.9447 -117.3389 1287.8 OR DANNER                             HCN      
+USC00352406  43.6592 -123.3250   89.0 OR DRAIN                              HCN      
+USC00352440  45.4539 -121.1303  405.4 OR DUFUR                              HCN      
+USC00352997  45.5247 -123.1025   54.9 OR FOREST GROVE                       HCN      
+USC00353095  43.3936 -121.2122 1404.8 OR FREMONT 5 NW                       HCN      
+USC00353445  42.4239 -123.3219  284.1 OR GRANTS PASS                        HCN      
+USC00353770  45.4486 -122.1547  228.0 OR HEADWORKS PORTLAND WTR B           HCN      
+USC00353827  45.3653 -119.5639  574.5 OR HEPPNER                            HCN      
+USC00353847  45.8289 -119.2636  195.1 OR HERMISTON 1 SE                     HCN      
+USC00354003  45.6847 -121.5175  152.4 OR HOOD RVR EXP STN                   HCN      
+USC00354506  42.2008 -121.7814 1249.1 OR KLAMATH FALLS 2 SSW                HCN      
+USC00354670  42.2414 -120.3678 1490.5 OR LAKEVIEW 2 NNW                     HCN      
+USC00355162  43.2650 -118.8447 1255.2 OR MALHEUR REFUGE HQ                  HCN      
+USC00355362  44.1792 -122.1164  450.5 OR MCKENZIE RVR RS                    HCN      
+USC00355384  45.2214 -123.1622   47.2 OR MC MINNVILLE                       HCN      
+USC00355593  45.9428 -118.4089  295.7 OR MILTON FREEWATER                   HCN      
+USC00355734  45.4825 -120.7236  570.0 OR MORO                               HCN      
+USC00356426  42.6922 -120.5403 1328.9 OR PAISLEY                            HCN      
+USC00356634  45.4756 -118.8253  524.3 OR PILOT ROCK 1 SE                    HCN      
+USC00356883  44.3006 -120.8406  876.6 OR PRINEVILLE                         HCN      
+USC00356907  42.7331 -122.5164  758.0 OR PROSPECT 2 SW                      HCN      
+USC00357169  42.9508 -123.3572  207.3 OR RIDDLE                             HCN      
+USC00357331  43.2142 -123.3256  146.3 OR ROSEBURG                           HCN      
+USC00358466  45.1231 -122.0700  341.4 OR THREE LYNX                         HCN      
+USC00358494  45.4539 -123.8519    3.7 OR TILLAMOOK                          HCN      
+USC00358746  45.1986 -117.8647  846.4 OR UNION                              HCN      
+USC00358797  43.9814 -117.2439  682.8 OR VALE                               HCN      
+USC00358997  45.5731 -117.5311  892.5 OR WALLOWA                            HCN      
+USC00361354  39.9283  -77.6372  195.1 PA CHAMBERSBURG 1 ESE                 HCN      
+USC00362537  39.8050  -77.2292  164.6 PA EISENHOWER NHS                     HCN      
+USC00363028  41.4003  -79.8306  309.4 PA FRANKLIN                           HCN      
+USC00363526  41.4167  -80.3667  344.4 PA GREENVILLE 2 NE                    HCN      
+USC00364385  40.3333  -78.9167  370.0 PA JOHNSTOWN                          HCN      
+USC00364896  40.3372  -76.4617  137.2 PA LEBANON 2 W                        HCN      
+USC00365915  41.8511  -75.8583  432.8 PA MONTROSE                           HCN      
+USC00366233  41.0172  -80.3614  251.5 PA NEW CASTLE 1 N                     HCN      
+USC00366689  40.8000  -75.6167  125.0 PA PALMERTON                          HCN      
+USC00367029  41.7394  -75.4464  548.6 PA PLEASANT MT 1 W                    HCN      
+USC00367322  40.4269  -75.9319  109.7 PA READING 4 NNW                      HCN      
+USC00367477  41.4197  -78.7492  414.5 PA RIDGWAY                            HCN      
+USC00367931  40.7831  -76.8617  128.0 PA SELINSGROVE 2 S                    HCN      
+USC00368449  40.7933  -77.8672  356.6 PA STATE COLLEGE                      HCN      
+USC00368596  41.0147  -75.2072  143.6 PA E STROUDSBURG                      HCN      
+USC00368905  41.7511  -76.4431  231.6 PA TOWANDA 1 S                        HCN      
+USC00369050  39.9150  -79.7192  291.4 PA UNIONTOWN 1 NE                     HCN      
+USC00369298  41.8467  -79.1494  368.8 PA WARREN                             HCN      
+USC00369408  41.7003  -77.3872  554.1 PA WELLSBORO 4 SW                     HCN      
+USC00369464  39.9708  -75.6350  114.3 PA W CHESTER 2 NW                     HCN      
+USC00369933  39.9167  -76.7500  118.9 PA YORK 3 SSW PUMP STN                HCN      
+USC00374266  41.4903  -71.5431   35.7 RI KINGSTON                           HCN      
+USC00380074  33.4925  -81.6958  150.0 SC AIKEN 5SE                          HCN      
+USC00380165  34.5283  -82.6608  243.8 SC ANDERSON                           HCN      
+USC00380559  32.3953  -80.6956    7.6 SC BEAUFORT WWTP                      HCN      
+USC00380764  33.3631  -81.3292   98.8 SC BLACKVILLE 3 W                     HCN      
+USC00381277  34.0906  -82.5883  161.5 SC CALHOUN FALLS                      HCN      
+USC00381310  34.2428  -80.6564   42.7 SC CAMDEN 3 W                         HCN      
+USC00381588  34.7028  -79.8822   45.7 SC CHERAW                             HCN      
+USC00381770  34.6603  -82.8233  243.8 SC CLEMSON UNIV                       HCN      
+USC00381944  33.9917  -81.0247   67.4 SC COLUMBIA UNIV OF SC                HCN      
+USC00381997  33.8314  -79.0558    6.1 SC CONWAY                             HCN      
+USC00382260  34.3011  -79.8767   45.7 SC DARLINGTON                         HCN      
+USC00383468  33.3619  -79.2239    3.0 SC GEORGETOWN 2 E                     HCN      
+USC00383754  34.1997  -82.1711  187.5 SC GREENWOOD                          HCN      
+USC00384690  34.5367  -80.5972  138.1 SC KERSHAW 1SW                        HCN      
+USC00384753  33.6775  -79.8283   22.9 SC KINGSTREE                          HCN      
+USC00385017  34.4989  -82.0219  179.5 SC LAURENS                            HCN      
+USC00385200  34.1994  -81.4144  216.7 SC LITTLE MTN                         HCN      
+USC00386209  34.2917  -81.6208  156.4 SC NEWBERRY                           HCN      
+USC00386527  33.4889  -80.8742   56.4 SC ORANGEBURG 2                       HCN      
+USC00387631  33.9919  -81.7714  146.3 SC SALUDA                             HCN      
+USC00387722  34.6350  -81.5206  158.5 SC SANTUCK                            HCN      
+USC00388426  33.0367  -80.2325   19.8 SC SUMMERVILLE 4W                     HCN      
+USC00388440  33.9350  -80.3478   53.0 SC SUMTER                             HCN      
+USC00388887  34.7544  -83.0750  298.7 SC WALHALLA                           HCN      
+USC00389327  34.3706  -81.0825  161.5 SC WINNSBORO                          HCN      
+USC00389350  34.9378  -81.0375  198.1 SC WINTHROP UNIV                      HCN      
+USC00389469  32.7019  -80.8517   13.4 SC YEMASSEE 1 N                       HCN      
+USC00390043  43.4839  -99.0478  515.4 SD ACADEMY 2NE                        HCN      
+USC00390128  43.6514  -97.7981  412.7 SD ALEXANDRIA                         HCN      
+USC00391392  43.3111  -96.5878  400.8 SD CANTON                             HCN      
+USC00391739  44.8817  -97.7325  549.9 SD CLARK                              HCN      
+USC00391972  43.9611 -101.8606  723.3 SD COTTONWOOD 2 E                     HCN      
+USC00392429  45.0469 -101.6022  727.9 SD DUPREE                             HCN      
+USC00392797  45.7656  -99.6222  570.3 SD EUREKA                             HCN      
+USC00392927  45.0325  -99.1225  481.0 SD FAULKTON                           HCN      
+USC00393029  44.0683  -98.0833  389.2 SD FORESTBURG 4 NNE                   HCN      
+USC00393217  44.0569  -99.0719  524.3 SD GANN VALLEY 4NW                    HCN      
+USC00393832  44.5139  -99.4422  579.4 SD HIGHMORE                           HCN      
+USC00394007  43.4378 -103.4739 1085.1 SD HOT SPRINGS                        HCN      
+USC00394037  44.0031  -97.5286  477.3 SD HOWARD                             HCN      
+USC00394516  43.9025  -99.8581  512.4 SD KENNEBEC                           HCN      
+USC00395456  45.1550  -98.5825  395.0 SD MELLETTE 4 W                       HCN      
+USC00395481  43.2358  -97.5714  406.3 SD MENNO                              HCN      
+USC00395536  45.2836  -96.6689  349.0 SD MILBANK 4 NW                       HCN      
+USC00395891  43.8878 -100.7075  705.9 SD MURDO                              HCN      
+USC00396170  44.4419 -100.4172  506.9 SD OAHE DAM                           HCN      
+USC00396947  44.1206 -103.2842 1060.4 SD RAPID CITY 4NW                     HCN      
+USC00398622  42.7625  -96.9194  346.6 SD VERMILLION 2 SE                    HCN      
+USC00399442  43.4989 -100.4814  664.5 SD WOOD                               HCN      
+USC00401790  36.5467  -87.3550  114.0 TN CLARKSVILLE WWTP                   HCN      
+USC00402024  34.9939  -84.3758  442.0 TN COPPERHILL                         HCN      
+USC00402108  35.5497  -89.7000  117.3 TN COVINGTON 3 SW                     HCN      
+USC00402202  36.0147  -85.1314  551.7 TN CROSSVILLE ED & RSCH STN           HCN      
+USC00402489  36.0747  -87.3931  232.0 TN DICKSON                            HCN      
+USC00402589  36.4881  -87.8486  150.0 TN DOVER 1 W                          HCN      
+USC00404561  35.6214  -88.8456  112.5 TN JACKSON EXP STN                    HCN      
+USC00405187  35.4139  -86.8086  239.9 TN LEWISBURG EXP STN                  HCN      
+USC00405882  35.6722  -85.7811  286.5 TN MC MINNVILLE                       HCN      
+USC00406371  35.9203  -86.3728  163.1 TN MURFREESBORO 5 N                   HCN      
+USC00406534  35.9833  -83.2008  315.8 TN NEWPORT 1 NW                       HCN      
+USC00407884  36.4161  -82.9839  413.0 TN ROGERSVILLE 1 NE                   HCN      
+USC00409155  35.3453  -86.2092  311.5 TN TULLAHOMA                          HCN      
+USC00409219  36.3925  -89.0317   97.8 TN UNION CITY                         HCN      
+USC00409502  35.3042  -87.7592  228.6 TN WAYNESBORO                         HCN      
+USC00410120  32.7047  -99.3011  441.4 TX ALBANY                             HCN      
+USC00410144  27.7283  -98.0678   61.3 TX ALICE                              HCN      
+USC00410174  30.3764 -103.6600 1356.4 TX ALPINE                             HCN      
+USC00410493  31.7414  -99.9764  518.2 TX BALLINGER 2 NW                     HCN      
+USC00410498  30.9839 -103.7408  970.8 TX BALMORHEA                          HCN      
+USC00410639  28.4575  -97.7061   77.7 TX BEEVILLE 5 NE                      HCN      
+USC00410832  30.0950  -98.4142  399.3 TX BLANCO                             HCN      
+USC00410902  29.7986  -98.7353  440.4 TX BOERNE                             HCN      
+USC00411000  35.5303 -102.2564  972.6 TX BOYS RCH                           HCN      
+USC00411048  30.1592  -96.3972   95.4 TX BRENHAM                            HCN      
+USC00411138  31.7228  -99.0142  472.7 TX BROWNWOOD 2NE                      HCN      
+USC00411528  28.3392  -99.6328  170.7 TX CATARINA                           HCN      
+USC00411772  33.6164  -95.0717  132.6 TX CLARKSVILLE 2NE                    HCN      
+USC00412019  32.1225  -96.4867  138.1 TX CORSICANA                          HCN      
+USC00412121  33.6608 -101.2778  930.2 TX CROSBYTON                          HCN      
+USC00412266  29.0661  -96.2583   20.4 TX DANEVANG 1 W                       HCN      
+USC00412598  32.0628  -98.3047  447.4 TX DUBLIN 2SE                         HCN      
+USC00412679  28.7569 -100.4792  247.5 TX EAGLE PASS 3N                      HCN      
+USC00412906  27.9775  -99.3847  166.1 TX ENCINAL                            HCN      
+USC00413063  27.1353  -98.1203   42.4 TX FALFURRIAS                         HCN      
+USC00413183  29.6339  -97.0644  143.3 TX FLATONIA 4SE                       HCN      
+USC00413280  30.9072 -102.9153  926.0 TX FT STOCKTON                        HCN      
+USC00413420  33.6461  -97.0592  265.2 TX GAINESVILLE 5 ENE                  HCN      
+USC00413734  33.1678  -96.0983  166.1 TX GREENVILLE KGVL RADIO              HCN      
+USC00413873  29.4706  -96.9397   83.8 TX HALLETTSVILLE 2 N                  HCN      
+USC00413992  33.1644  -99.7389  484.6 TX HASKELL                            HCN      
+USC00415018  31.0717  -98.1847  314.6 TX LAMPASAS                           HCN      
+USC00415196  30.0592  -94.7950   10.7 TX LIBERTY                            HCN      
+USC00415272  30.7425  -98.6542  310.9 TX LLANO                              HCN      
+USC00415429  29.6756  -97.6578  121.9 TX LULING                             HCN      
+USC00415618  32.4892  -94.3289   92.0 TX MARSHALL                           HCN      
+USC00415707  31.1331 -102.2217  750.1 TX MCCAMEY                            HCN      
+USC00415869  31.6181  -96.4497  153.3 TX MEXIA                              HCN      
+USC00415875  35.6936 -100.6392  837.3 TX MIAMI                              HCN      
+USC00416135  34.2192 -102.7328 1167.4 TX MULESHOE #1                        HCN      
+USC00416276  29.6597  -98.1636  219.5 TX NEW BRAUNFELS                      HCN      
+USC00416794  33.6744  -95.5586  165.2 TX PARIS                              HCN      
+USC00416892  31.4167 -103.5000  795.5 TX PECOS                              HCN      
+USC00417079  34.1892 -101.7022 1027.2 TX PLAINVIEW                          HCN      
+USC00417336  34.2761  -99.7578  488.3 TX QUANAH 2 SW                        HCN      
+USC00417622  26.3769  -98.8117   52.4 TX RIO GRANDE CITY                    HCN      
+USC00418201  32.7131 -102.6597 1016.8 TX SEMINOLE                           HCN      
+USC00418433  32.7100 -100.9111  706.8 TX SNYDER                             HCN      
+USC00418692  36.4414 -102.0775 1098.2 TX STRATFORD                          HCN      
+USC00418910  31.0781  -97.3183  193.5 TX TEMPLE                             HCN      
+USC00419532  32.7478  -97.7703  293.2 TX WEATHERFORD                        HCN      
+USC00420086  37.4403 -112.4819 2163.5 UT ALTON                              HCN      
+USC00420738  37.6133 -109.4847 1839.5 UT BLANDING                           HCN      
+USC00420788  37.2825 -109.5575 1316.4 UT BLUFF                              HCN      
+USC00421731  41.5481 -112.1106 1289.3 UT CORINNE                            HCN      
+USC00422101  39.2875 -112.6514 1399.6 UT DESERET                            HCN      
+USC00422253  40.1703 -110.3978 1691.9 UT DUCHESNE                           HCN      
+USC00422592  37.7686 -111.5978 1770.9 UT ESCALANTE                          HCN      
+USC00422726  41.0203 -111.9328 1335.0 UT FARMINGTON 3 NW                    HCN      
+USC00422828  38.9603 -112.3239 1562.7 UT FILLMORE                           HCN      
+USC00422996  40.2842 -109.8611 1539.8 UT FT DUCHESNE                        HCN      
+USC00423418  38.9906 -110.1544 1240.5 UT GREEN RIVER AVIATION               HCN      
+USC00423809  40.4917 -111.4261 1703.8 UT HEBER                              HCN      
+USC00424508  37.0286 -112.5361 1493.5 UT KANAB                              HCN      
+USC00424856  41.8253 -111.3206 1822.7 UT LAKETOWN                           HCN      
+USC00425065  39.5608 -111.8653 1614.8 UT LEVAN                              HCN      
+USC00425186  41.7456 -111.8033 1460.0 UT LOGAN UTAH ST UNIV                 HCN      
+USC00425402  39.2583 -111.6308 1749.6 UT MANTI                              HCN      
+USC00425477  38.4492 -112.2239 1781.6 UT MARYSVALE                          HCN      
+USC00425733  38.5744 -109.5458 1235.4 UT MOAB                               HCN      
+USC00425826  41.0367 -111.6711 1546.9 UT MORGAN                             HCN      
+USC00426135  39.7119 -111.8319 1568.5 UT NEPHI                              HCN      
+USC00426404  41.2439 -111.9467 1325.9 UT OGDEN PIONEER PH                   HCN      
+USC00426601  37.8247 -112.4308 2016.3 UT PANGUITCH                          HCN      
+USC00426686  37.8831 -112.7711 1801.4 UT PARAGONAH                          HCN      
+USC00427260  38.7617 -112.0778 1610.9 UT RICHFIELD RADIO KSVC               HCN      
+USC00427516  37.1189 -113.6067  870.8 UT ST GEORGE                          HCN      
+USC00427559  38.9128 -111.4164 2304.3 UT SALINA 24 E                        HCN      
+USC00427714  39.2453 -112.1067 1619.7 UT SCIPIO                             HCN      
+USC00427729  39.6842 -111.2053 2650.8 UT SCOFIELD-SKYLINE MINE              HCN      
+USC00427909  40.5453 -111.5042 1831.8 UT SNAKE CREEK POWERHOUSE             HCN      
+USC00428119  40.0800 -111.6047 1438.7 UT SPANISH FK PWR HOUSE               HCN      
+USC00428705  38.9522 -109.6867 1547.5 UT THOMPSON WELCOME CTR               HCN      
+USC00428771  40.5353 -112.3217 1506.9 UT TOOELE                             HCN      
+USC00428973  40.3603 -111.8972 1373.1 UT UTAH LAKE LEHI                     HCN      
+USC00429111  40.4400 -109.5356 1629.2 UT VERNAL                             HCN      
+USC00429595  41.5147 -111.1594 1924.8 UT WOODRUFF                           HCN      
+USC00429717  37.2092 -112.9814 1230.8 UT ZION NP                            HCN      
+USC00431243  43.3847  -72.5989  256.6 VT CAVENDISH                          HCN      
+USC00431360  43.9833  -72.4500  243.8 VT CHELSEA                            HCN      
+USC00431580  43.9572  -73.2106  105.2 VT CORNWALL                           HCN      
+USC00432769  44.9094  -72.8083  128.0 VT ENOSBURG FALLS                     HCN      
+USC00437054  44.4200  -72.0194  213.4 VT SAINT JOHNSBURY                    HCN 72614
+USC00437607  44.6258  -73.3031   32.9 VT S HERO                             HCN      
+USC00437612  44.0725  -72.9736  408.7 VT S LINCOLN                          HCN      
+USC00440766  37.2039  -80.4144  641.0 VA BLACKSBURG NWSO                    HCN      
+USC00440993  37.7092  -78.2886   68.6 VA BREMO BLUFF                        HCN      
+USC00441209  37.0908  -81.3364  935.1 VA BURKES GARDEN                      HCN      
+USC00441593  38.0328  -78.5225  264.0 VA CHARLOTTESVILLE 2W                 HCN      
+USC00442208  38.4547  -78.9353  413.9 VA DALE ENTERPRISE                    HCN      
+USC00442245  36.5628  -79.3633  119.5 VA DANVILLE 2 SE                      HCN      
+USC00442941  37.2861  -78.4053  117.7 VA FARMVILLE                          HCN      
+USC00443192  38.3167  -77.4500   27.4 VA FREDERICKSBURG NP                  HCN      
+USC00444101  37.2992  -77.2775   12.2 VA HOPEWELL                           HCN      
+USC00444128  37.9994  -79.8322  684.0 VA HOT SPRINGS                        HCN      
+USC00444876  37.7767  -79.4386  334.4 VA LEXINGTON                          HCN      
+USC00444909  39.1422  -77.7094  155.4 VA PURCELLVILLE                       HCN      
+USC00446626  36.7586  -83.0106  414.5 VA PENNINGTON GAP                     HCN      
+USC00446712  38.2253  -78.1189  158.5 VA PIEDMONT RSCH STN                  HCN      
+USC00447338  36.9769  -79.8961  400.8 VA ROCKY MT                           HCN      
+USC00448062  38.1814  -79.0903   51.5 VA STAUNTON WTP                       HCN      
+USC00449151  37.3017  -76.7039   21.3 VA WILLIAMSBURG 2 N                   HCN      
+USC00449263  38.9031  -78.4792  202.1 VA WOODSTOCK 2 NE                     HCN      
+USC00450008  46.9658 -123.8292    3.0 WA ABERDEEN                           HCN      
+USC00450587  48.7169 -122.5142    9.8 WA BELLINGHAM 3 SSW                   HCN      
+USC00450729  48.9947 -122.7619    5.2 WA BLAINE                             HCN      
+USC00450945  47.1694 -122.0036  208.8 WA BUCKLEY 1 NE                       HCN      
+USC00451233  47.4144 -121.7561  480.4 WA CEDAR LAKE                         HCN      
+USC00451276  46.7200 -122.9528   56.4 WA CENTRALIA                          HCN      
+USC00451484  48.9672 -122.3292   19.5 WA CLEARBROOK                         HCN      
+USC00451504  47.1889 -120.9131  579.1 WA CLE ELUM                           HCN      
+USC00451630  48.5678 -117.9356  473.7 WA COLVILLE                           HCN      
+USC00451666  48.5558 -119.7492  703.8 WA CONCONULLY                         HCN      
+USC00451939  47.3706 -123.1600    6.4 WA CUSHMAN POWERHOUSE #2              HCN      
+USC00452007  47.6636 -118.1614  739.1 WA DAVENPORT                          HCN      
+USC00452030  46.3153 -118.0022  474.6 WA DAYTON 1 WSW                       HCN      
+USC00452505  46.9692 -120.5400  451.1 WA ELLENSBURG                         HCN      
+USC00452675  47.9753 -122.1950   14.0 WA EVERETT                            HCN      
+USC00452914  47.9558 -124.3539  113.4 WA FORKS 1 E                          HCN      
+USC00453222  45.8081 -120.8428  499.9 WA GOLDENDALE                         HCN      
+USC00454154  46.2111 -119.1011  118.9 WA KENNEWICK                          HCN      
+USC00454748  46.3675 -124.0378    7.6 WA LONG BEACH EXP STN                 HCN      
+USC00454764  46.7492 -121.8120  839.7 WA LONGMIRE RAINIER NPS               HCN      
+USC00454769  46.1372 -122.9781    3.4 WA LONGVIEW                           HCN      
+USC00455224  47.1356 -122.2561  173.7 WA MCMILLIN RSVR                      HCN      
+USC00455946  48.8994 -117.8289  456.3 WA NORTHPORT                          HCN      
+USC00456039  47.3331 -118.6961  470.3 WA ODESSA                             HCN      
+USC00456096  48.6117 -122.8064   24.4 WA OLGA 2 SE                          HCN      
+USC00456610  46.4672 -117.5883  589.5 WA POMEROY                            HCN      
+USC00456624  48.1139 -123.4317   27.4 WA PORT ANGELES                       HCN      
+USC00456678  48.1161 -122.7586   30.5 WA PORT TOWNSEND                      HCN      
+USC00456789  46.7603 -117.1861  766.6 WA PULLMAN 2 NW                       HCN      
+USC00456914  46.6533 -123.7300    9.1 WA RAYMOND 2 S                        HCN      
+USC00457059  47.1175 -118.3714  568.1 WA RITZVILLE 1 SSE                    HCN      
+USC00457267  47.0933 -117.5878  595.0 WA ST JOHN                            HCN      
+USC00457507  48.4961 -122.2350   15.8 WA SEDRO-WOOLLEY                      HCN      
+USC00457773  47.5414 -121.8361  134.1 WA SNOQUALMIE FALLS                   HCN      
+USC00458059  48.3508 -120.7264  383.1 WA STEHEKIN 4 NW                      HCN      
+USC00458207  46.3236 -120.0103  227.7 WA SUNNYSIDE                          HCN      
+USC00458773  45.6775 -122.6514   67.1 WA VANCOUVER 4 NNE                    HCN      
+USC00459012  47.6497 -120.0800  812.0 WA WATERVILLE                         HCN      
+USC00459074  47.4289 -120.3100  190.8 WA WENATCHEE                          HCN      
+USC00459238  47.7681 -118.7239  659.0 WA WILBUR                             HCN      
+USC00459376  48.4742 -120.1886  533.1 WA WINTHROP 1 WSW                     HCN      
+USC00461220  38.9803  -80.2200  443.5 WV BUCKHANNON                         HCN      
+USC00461330  39.2047  -81.1572  231.6 WV CAIRO                              HCN      
+USC00463544  38.9339  -80.8317  224.9 WV GLENVILLE                          HCN      
+USC00465224  37.8567  -80.4042  701.0 WV LEWISBURG 3 N                      HCN      
+USC00465626  39.5436  -80.4647  335.3 WV MANNINGTON 8 WNW                   HCN      
+USC00466867  39.0736  -79.6339  541.0 WV PARSONS 3 SE                       HCN      
+USC00466989  38.6789  -80.1958  877.8 WV PICKENS 2 N                        HCN      
+USC00467029  37.5742  -81.5356  402.6 WV PINEVILLE                          HCN      
+USC00468384  38.8008  -81.3583  296.3 WV SPENCER                            HCN      
+USC00469368  40.2753  -80.6119  201.2 WV WELLSBURG WTR TRMT PL              HCN      
+USC00469610  37.6781  -82.2892  209.7 WV WILLIAMSON                         HCN      
+USC00469683  38.5278  -81.9153  189.3 WV WINFIELD LOCKS                     HCN      
+USC00470349  46.5831  -90.9678  198.1 WI ASHLAND EXP FARM                   HCN      
+USC00470991  44.8558  -88.9889  329.2 WI BOWLER                             HCN      
+USC00471078  42.6181  -89.3867  237.7 WI BRODHEAD WWTP                      HCN      
+USC00472001  42.6783  -90.1061  254.5 WI DARLINGTON WWTP                    HCN      
+USC00472839  43.7953  -88.4533  228.6 WI FOND DU LAC WWTP                   HCN      
+USC00473405  44.1186  -89.5358  332.8 WI HANCOCK EXP FARM                   HCN      
+USC00474546  42.8278  -90.7889  317.0 WI LANCASTER 4 WSW                    HCN      
+USC00475017  44.0869  -87.6522  178.0 WI MANITOWOC                          HCN      
+USC00475120  44.6411  -90.1333  377.0 WI MARSHFIELD EXP FARM                HCN      
+USC00475255  45.1308  -90.3439  448.1 WI MEDFORD                            HCN      
+USC00475474  43.0722  -88.0294  217.9 WI MT MARY COLLEGE                    HCN      
+USC00475516  45.8864  -89.7322  488.0 WI MINOCQUA                           HCN      
+USC00475808  44.5378  -90.5350  329.2 WI NEILLSVILLE 3ESE                   HCN      
+USC00475932  44.3586  -88.7189  243.8 WI NEW LONDON                         HCN      
+USC00476208  44.8919  -87.9550  201.2 WI OCONTO 4 W                         HCN      
+USC00476330  44.0206  -88.5578  228.6 WI OSHKOSH                            HCN      
+USC00476718  43.5306  -89.4369  239.3 WI PORTAGE WWTP                       HCN      
+USC00476827  43.0514  -91.1350  200.6 WI PRAIRIE DU CHIEN                   HCN      
+USC00476922  42.7028  -87.7858  180.4 WI RACINE WWTP                        HCN      
+USC00478027  45.8236  -91.8761  335.3 WI SPOONER AG RSCH STN                HCN      
+USC00478110  44.9528  -90.9269  329.2 WI STANLEY WWTP                       HCN      
+USC00478827  43.5594  -90.8761  382.5 WI VIROQUA                            HCN      
+USC00478919  43.1742  -88.7364  251.5 WI WATERTOWN WWTP                     HCN      
+USC00480140  43.7728 -111.0339 1962.9 WY ALTA 1 NNW                         HCN      
+USC00480540  44.3797 -108.0350 1170.4 WY BASIN                              HCN      
+USC00480552  42.6233 -106.3567 1841.6 WY BATES CREEK #2                     HCN      
+USC00481730  41.7589 -104.8228 1616.0 WY CHUGWATER                          HCN      
+USC00481840  44.5022 -109.1111 1609.3 WY CODY                               HCN      
+USC00481905  44.8694 -104.1553 1042.4 WY COLONY                             HCN      
+USC00482595  43.2281 -108.9492 1703.5 WY DIVERSION DAM                      HCN      
+USC00482715  43.5397 -109.6553 2119.9 WY DUBOIS                             HCN      
+USC00483100  41.2625 -110.9456 2090.9 WY EVANSTON 1 E                       HCN      
+USC00484065  41.5167 -109.4703 1877.6 WY GREEN RVR                          HCN      
+USC00485345  44.5622 -110.3986 2405.5 WY LAKE YELLOWSTONE                   HCN      
+USC00485830  42.7506 -104.4811 1551.4 WY LUSK 2 SW                          HCN      
+USC00486195  43.4131 -106.2772 1481.3 WY MIDWEST                            HCN      
+USC00486440  43.8567 -110.5889 2074.2 WY MORAN 5WNW                         HCN      
+USC00486660  43.8497 -104.1886 1345.7 WY NEWCASTLE                          HCN      
+USC00487115  43.2458 -108.6942 1671.5 WY PAVILLION                          HCN      
+USC00487240  41.1722 -104.1583 1578.9 WY PINE BLUFFS 5W                     HCN      
+USC00487260  42.8750 -109.8622 2195.2 WY PINEDALE                           HCN      
+USC00487388  44.7764 -108.7592 1332.6 WY POWELL FLD STN                     HCN      
+USC00487760  43.0306 -108.3744 1510.3 WY RIVERTON                           HCN      
+USC00487990  41.4528 -106.8053 2069.6 WY SARATOGA                           HCN      
+USC00488160  44.8406 -106.8383 1143.0 WY SHERIDAN FLD STN                   HCN      
+USC00488995  42.0803 -104.2236 1249.1 WY TORRINGTON EXP FARM                HCN      
+USC00489615  42.1100 -104.9492 1410.0 WY WHEATLAND 4N                       HCN      
+USC00489770  44.0114 -107.9683 1236.9 WY WORLAND                            HCN      
+USC00489905  44.9767 -110.6964 1890.7 WY YELLOWSTONE PARK MAMMOTH           HCN      
+USW00003822  32.1314  -81.2022    8.8 GA SAVANNAH INTL AP                   HCN 72207
+USW00003870  34.8833  -82.2197  325.8 SC GREER                          GSN HCN 72312
+USW00003959  36.7664  -96.0131  210.3 OK BARTLESVILLE MUNI AP               HCN      
+USW00004725  42.1997  -75.9847  519.1 NY BINGHAMTON                         HCN 72515
+USW00012835  26.5850  -81.8614    4.0 FL FT MYERS PAGE FLD AP               HCN      
+USW00012836  24.5569  -81.7553    0.3 FL KEY W INTL AP                  GSN HCN 72201
+USW00012921  29.5442  -98.4839  243.5 TX SAN ANTONIO INTL AP            GSN HCN 72253
+USW00012924  27.7839  -97.5114   43.3 TX CORPUS CHRISTI                     HCN 72251
+USW00012930  29.9167  -90.1303    6.1 LA NEW ORLEANS AUDUBON                HCN      
+USW00013713  35.3444  -77.9647   33.2 NC GOLDSBORO 4 SE                     HCN      
+USW00013724  39.3778  -74.4236    3.0 NJ ATLANTIC CITY MARINA               HCN      
+USW00013734  39.4039  -77.9750  164.9 WV MARTINSBURG E W VIRGINIA RGNL      HCN      
+USW00013737  36.9036  -76.1928    3.4 VA NORFOLK INTL AP                    HCN 72308
+USW00013782  32.7750  -79.9239    3.0 SC DWTN CHARLESTON                GSN HCN 72208
+USW00013896  34.7439  -87.5997  165.8 AL MUSCLE SHOALS AP                   HCN      
+USW00013899  30.4761  -87.1858   36.0 FL PENSACOLA RGNL AP                  HCN 72222
+USW00013970  30.5378  -91.1469   20.4 LA BATON ROUGE METRO AP               HCN 72232
+USW00013976  30.1986  -91.9894   10.7 LA LAFAYETTE RGNL AP                  HCN      
+USW00013980  37.1550  -98.0283  408.4 KS ANTHONY                            HCN      
+USW00014733  42.9489  -78.7367  240.8 NY BUFFALO                            HCN 72528
+USW00014735  42.7472  -73.7992   85.3 NY ALBANY INTL AP                     HCN 72518
+USW00014737  40.6497  -75.4478  117.3 PA ALLENTOWN LEHIGH VLY INTL AP       HCN 72517
+USW00014742  44.4683  -73.1500  101.2 VT BURLINGTON INTL AP             GSN HCN 72617
+USW00014743  44.5772  -75.1097  136.6 NY CANTON 4 SE                        HCN      
+USW00014757  41.6258  -73.8817   46.6 NY POUGHKEEPSIE AP                    HCN      
+USW00014764  43.6425  -70.3045   13.4 ME PORTLAND JETPORT                   HCN 72606
+USW00014765  41.7225  -71.4325   15.5 RI PROVIDENCE                         HCN 72507
+USW00014768  43.1172  -77.6753  164.6 NY ROCHESTER GTR INTL                 HCN 72529
+USW00014771  43.1111  -76.1039  125.0 NY SYRACUSE HANCOCK INTL AP       GSN HCN 72519
+USW00014778  41.2431  -76.9217  159.7 PA WILLIAMSPORT RGNL AP               HCN 72514
+USW00014804  42.6083  -82.8183  176.8 MI MT CLEMENS ANG BASE                HCN      
+USW00014860  42.0803  -80.1822  222.2 PA ERIE INTL AP                       HCN 72526
+USW00014922  44.8853  -93.2314  254.5 MN MINNEAPOLIS-ST PAUL INTL AP    GSN HCN 72658
+USW00014924  48.9711  -97.2417  240.8 ND PEMBINA                            HCN      
+USW00014929  45.4558  -98.4133  421.5 SD ABERDEEN                           HCN 72659
+USW00014946  44.9044  -97.1494  530.7 SD WATERTOWN RGNL AP                  HCN      
+USW00023009  33.3072 -104.5081 1104.6 NM ROSWELL IND AIR PK                 HCN 72268
+USW00023044  31.8122 -106.3775 1202.1 TX EL PASO INTL AP                GSN HCN 72270
+USW00023051  36.4483 -103.1536 1514.6 NM CLAYTON MUNI AIR PK            GSN HCN 72360
+USW00023170  38.3706 -110.7153 1313.1 UT HANKSVILLE                         HCN      
+USW00023177  37.7981 -113.9256 1664.2 UT MODENA                             HCN      
+USW00023179  34.7678 -114.6183  270.7 CA NEEDLES AP                         HCN      
+USW00023185  39.5078 -119.7683 1342.6 NV RENO AP                            HCN 72488
+USW00024018  41.1519 -104.8061 1887.6 WY CHEYENNE                           HCN 72564
+USW00024022  41.3164 -105.6728 2216.8 WY LARAMIE AP                         HCN      
+USW00024025  44.3819 -100.2864  524.0 SD PIERRE RGNL AP                     HCN 72656
+USW00024027  41.5947 -109.0528 2059.8 WY ROCK SPRINGS AP                    HCN      
+USW00024037  46.4264 -105.8833  800.1 MT MILES CITY AP                      HCN 74230
+USW00024119  40.6117 -116.8917 1373.1 NV BATTLE MOUNTAIN 4SE                HCN      
+USW00024121  40.8239 -115.7864 1540.5 NV ELKO RGNL AP                       HCN      
+USW00024128  40.9017 -117.8081 1310.6 NV WINNEMUCCA AP                  GSN HCN 72583
+USW00024130  44.8431 -117.8100 1025.0 OR BAKER CITY AP                      HCN      
+USW00024137  48.6036 -112.3767 1172.0 MT CUT BANK AP                        HCN 72769
+USW00024143  47.4733 -111.3828 1117.7 MT GREAT FALLS AP                     HCN 72775
+USW00024144  46.6044 -111.9892 1178.1 MT HELENA AP ASOS                 GSN HCN 72772
+USW00024149  46.3744 -117.0153  435.9 ID LEWISTON AP                        HCN 72783
+USW00024151  42.1492 -112.2872 1362.5 ID MALAD CITY                         HCN      
+USW00024157  47.6217 -117.5281  717.8 WA SPOKANE INTL AP                    HCN 72785
+USW00024160  46.0944 -118.2858  356.6 WA WALLA WALLA RGNL AP                HCN      
+USW00024193  40.7206 -114.0358 1291.4 UT WENDOVER AP AWOS                   HCN 72581
+USW00024213  40.8097 -124.1603    6.1 CA EUREKA WFO WOODLEY IS          GSN HCN 72594
+USW00024257  40.5147 -122.2978  152.7 CA REDDING AP                         HCN 72592
+USW00024281  47.6500 -122.3000    5.8 WA SEATTLE URBAN SITE                 HCN      
+USW00024284  43.4133 -124.2436    5.2 OR N BEND SW OREGON RGNL AP           HCN      
+USW00024285  44.6431 -124.0556   37.2 OR NEWPORT                            HCN      
+USW00093193  36.7800 -119.7203  101.8 CA FRESNO YOSEMITE INTL           GSN HCN 72389
+USW00093729  35.2325  -75.6222    3.7 NC CAPE HATTERAS - BILLY MITCHELL GSN HCN 72304
+USW00093784  39.2814  -76.6111    6.1 MD MARYLAND SCI CTR                   HCN      
+USW00093805  30.3975  -84.3289   53.9 FL TALLAHASSEE                        HCN 72214
+USW00093806  33.2122  -87.6156   45.1 AL TUSCALOOSA AP ASOS                 HCN      
+USW00093808  36.9647  -86.4239  159.4 KY BOWLING GREEN WARREN CO AP         HCN      
+USW00093986  34.9892  -99.0528  473.4 OK HOBART MUNI AP                     HCN      
+USW00094008  48.2064 -106.6247  726.6 MT GLASGOW                        GSN HCN 72768
+USW00094224  46.1569 -123.8833    3.4 OR ASTORIA AP (PORT OF)               HCN 72791
+USW00094728  40.7789  -73.9692   42.7 NY NY CITY CNTRL PARK                 HCN 72506
+USW00094793  41.1667  -71.5833   33.5 RI BLOCK ISLAND STATE AP              HCN      
+USW00094794  43.1450  -75.3839  216.7 NY UTICA ONEIDA CO AP                 HCN      
+USW00094967  46.8997  -95.0669  439.2 MN PARK RAPIDS MUNI AP                HCN      
