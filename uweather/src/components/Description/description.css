@@ -10,17 +10,26 @@
 }
 
 .earth {
-    width: 30%;
-    max-width: 135px;
+    width: 100%;
+    max-width: 200px;
     height: auto;
     margin-top: 10px;
+    padding: 2rem 2rem;
+    margin-left: 150px;
 }
 
 .part2 {
-    padding: 1rem 5rem;
+    padding: .3rem 5rem;
     flex: 1;
     font-size: 23px;
     font-family: "Fira Sans Condensed", sans-serif;
     line-height: 1.5;
     text-align: left;
+    text-align: left;
+    margin-left: -30px;
+}
+
+.temp {
+    color: rgb(176, 83, 99);
+    font-weight: bold;
 }
