@@ -5,7 +5,7 @@
     position: absolute;
     padding: 10rem 2rem;
     gap: 1rem;
-    margin-top: 10rem;
+    margin-top: 12rem;
 }
 
 .hr {
@@ -17,11 +17,11 @@
     
 }
 
-.sun {
+.Hsun {
     width: 10%;
-    max-width: 135px;
-    height: auto;
-    margin-top: 10px; 
+    max-width: 115px;
+    margin-top: -10px;
+    margin-left: 40px; 
 }
 
 .hHotspots {
@@ -32,11 +32,12 @@
     font-style: normal;
     line-height: 1.5;
     text-align: left;
+    margin-left: 30px;
 }
 
 
 .map{
-    margin-top: 28rem;
+    margin-top: 29rem;
     margin-left: 45px;
     width: 93%;
     border-radius: 10%;
@@ -70,3 +71,12 @@
     border-radius: 40px;
     height: 32px;
 }
+
+.hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #0d0b0b;
+    margin-top: -15px;
+    margin-left: 400px;
+  }

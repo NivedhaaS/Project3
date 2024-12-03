@@ -7,9 +7,9 @@ const Hotspots = () => {
     return (
         <section id="hotspots">
             <div class="container">
-                <img src={sun} alt="sun" className="sun"/>
+                <img src={sun} alt="sun" className="Hsun"/>
                 <div className="hHotspots" >
-                    <span>global warming hotspots<hr className="hr"></hr></span>
+                    <span>global warming hotspots<hr className="hr"/></span>
                     <div className="find">how many hotspots to find: 
                     <input type="number" id="name" name="name" placeholder=" ##"/>
                     <button className="button">find hotspots</button>

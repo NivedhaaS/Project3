@@ -18,10 +18,11 @@
     text-align: left;
 }
 
-.sun {
+.Psun {
     width: 10%;
-    max-width: 135px;
-    height: auto;
-    margin-top: 10px; 
+    max-width: 105px;
+    margin-top: -10px;
+    margin-left: 40px; 
 }
+
 
