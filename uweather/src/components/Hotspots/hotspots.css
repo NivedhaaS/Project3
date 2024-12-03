@@ -1,43 +1,83 @@
+/* hotspots.css */
 .container {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    position: absolute;
-    padding: 10rem 2rem;
-    gap: 1rem;
-    margin-top: 10rem;
-}
-
-.hr {
-    display: block;
-    height: 1px;
-    border: 0;
-    border-top: 1px solid #0d0b0b;
-    margin-top: -25px;
-    
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  padding: 2rem;
+  gap: 1.5rem;
+  margin-top: 2rem;
 }
 
 .sun {
-    width: 10%;
-    max-width: 135px;
-    height: auto;
-    margin-top: 10px; 
+  width: 10%;
+  max-width: 135px;
+  height: auto;
+  margin-top: 100px;
 }
 
-.hHotspots {
-    flex: 1;
-    font-size: 40px;
-    font-family: "Caveat", cursive;
-    font-weight: 600;
-    font-style: normal;
-    line-height: 1.5;
-    text-align: left;
+.hotspot-header {
+  text-align: center;
+  font-family: "Caveat", cursive;
+  font-size: 2.5rem;
+  font-weight: 600;
+  color: #0d0b0b;
+  margin-top: 280px;
 }
 
-.map{
-    margin-top: 28rem;
-    margin-left: 45px;
-    width: 93%;
-    border-radius: 10%;
-    border: 1px solid #000000; 
+.divider {
+  margin: 0.5rem auto;
+  width: 50%;
+  height: 2px;
+  background-color: #000;
+  border: none;
+}
+
+.map {
+  margin-top: 1rem;
+  width: 90%;
+  max-width: 1000px;
+  border-radius: 10px;
+  border: 1px solid #000;
+}
+
+.controls {
+  margin-top: 1rem;
+  font-family: "Fira Sans Condensed", sans-serif;
+  font-size: 1.2rem;
+  color: #333;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.input-box {
+  margin: 0.5rem;
+  padding: 0.5rem;
+  border-radius: 15px;
+  border: 1px solid #000;
+  text-align: center;
+  font-size: 1rem;
+  width: 80px;
+}
+
+.buttons {
+  display: flex;
+  gap: 1rem;
+}
+
+.button {
+  background-color: #4caf50;
+  color: #fff;
+  border: none;
+  border-radius: 15px;
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.button:hover {
+  background-color: #45a049;
 }

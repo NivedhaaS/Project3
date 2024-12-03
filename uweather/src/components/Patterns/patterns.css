@@ -18,3 +18,10 @@
     text-align: left;
 }
 
+.sun {
+    width: 10%;
+    max-width: 135px;
+    height: auto;
+    margin-top: 10px; 
+}
+
