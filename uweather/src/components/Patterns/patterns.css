@@ -30,7 +30,7 @@
 
 .pSun {
     max-width: 60px;
-    margin-top: -10px;
+    margin-top: -80px;
     margin-left: 40px; 
 }
 
@@ -41,65 +41,34 @@
     border: 0;
     border-top: 1px solid #0d0b0b;
     margin-top: -15px;
-    margin-left: 450px;
+    margin-left: 460px;
     width: 500px;
   }
 
   .graph {
-    background-color: #80a9b4;
-    position: absolute;
-    width: 350px;
-    height: 350px;
+    background-color: #ffffff;
+    position: relative;
+    width: 600px;
+    min-height: 100px; 
+    margin-top: 100px;
     border: 1px solid #80a9b4;
     border-radius: 25px;
-    margin-top: 105px;
-    margin-left: 100px;
-  }
-
-  .info {
-    background-color: #80a9b4;
-    position: absolute;
-    width: 280px;
-    height: 350px;
-    border: 1px solid #80a9b4;
-    border-radius: 25px;
-    margin-top: 105px;
-    margin-left: 500px;
-  }
-
-  .prec {
-    position: absolute;
-    margin-top: 550px;
-    font-weight: normal;
-    font-size: 20px;
     font-family: "Fira Sans Condensed", sans-serif;
+    overflow: hidden; 
+    box-sizing: border-box; 
   }
-
-  .graph {
-    background-color: #80a9b4;
-    position: absolute;
-    width: 350px;
-    height: 350px;
+  
+  table {
+    width: 100%;
+    table-layout: fixed; 
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    text-align: center;
     border: 1px solid #80a9b4;
-    border-radius: 25px;
-    margin-top: 105px;
-    margin-left: 100px;
+    border-radius: 20px;
+    padding: 8px;
+    word-wrap: break-word; 
   }
-
-  .info {
-    background-color: #80a9b4;
-    position: absolute;
-    width: 280px;
-    height: 350px;
-    border: 1px solid #80a9b4;
-    border-radius: 25px;
-    margin-top: 105px;
-    margin-left: 500px;
-  }
-
-
-
-  .graph:hover,.graph2:hover, .info:hover, .info2:hover{
-    background-color: #71949e;
-  }
-
+  

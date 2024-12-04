@@ -5,14 +5,28 @@ import "./patterns.css";
 const Patterns = () => {
     return ( 
         <section id="patterns">
-            <img src={sun} alt="sun" className="pSun"/>
+            <img src={sun} alt="sun" className="pSun" style={{transform: 'translate(40px, -70px)'}}/>
             <div className="pPattern">
                 <span>weather patterns by day<hr className="phr"/></span>
                 <span className="sub">temperature changes by day and location: ranked</span>
-                <div className= "trend">
-                    <span className="graph"></span> 
-                    <span className="info"></span>
-                </div>
+                <table className="graph">
+                    <tr>
+                        <th>Rank</th>
+                        <th>Date</th>
+                        <th>Name</th>
+                        <th>State</th>
+                        <th>Degrees °C</th>
+                    </tr>
+                    <tr>
+                        <td >emrk</td>
+                        <td>er</td>
+                        
+                    </tr>
+                    <tr>
+                        <td>ere</td>
+                        <td>ere</td>
+                    </tr>
+                </table>
             </div>
         </section>                                                                                          
     );
