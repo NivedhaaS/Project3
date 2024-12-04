@@ -51,7 +51,7 @@ const Hotspots = () => {
                         heaps
                     </div>
                 </label> */}
-                <div class="toggle-button">
+                <div class="togglebackground" style={{ transform: 'translate(-202px, 50px)' }}>
                     <button id="heapButton" class="toggle active">Heap</button>
                     <button id="tableButton" class="toggle">Table</button>
                 </div>

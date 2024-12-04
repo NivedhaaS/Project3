@@ -102,7 +102,7 @@
     text-align: center;
     font-family: "Fira Sans Condensed", sans-serif;
     margin-left: 20px;
-    background-color: #e8edf0;
+    background-color: rgb(232, 237, 240);
 }
 
 .fj{
@@ -120,6 +120,8 @@
     border: 1px solid rgb(25, 25, 25);
     margin-left: 20px;
     transition: all 0.2s ease-in-out;
+    width: 135px;
+    height: 40px;
 }
 
 .find:hover {
@@ -180,47 +182,13 @@
     left: 1.5px;
 
 } */
-.toggle-button {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    width: 200px;
-    background-color: #ccc;
-    border-radius: 25px;
-    padding: 5px;
-    position: relative;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
-    
-  }
-  
-  .toggle {
-    flex: 1;
-    border: none;
-    background-color: transparent;
-    font-size: 16px;
-    font-weight: bold;
-    padding: 10px;
-    border-radius: 20px;
-    cursor: pointer;
-    color: #666;
-    transition: 0.3s;
-  }
-  
-  .toggle.active {
-    background-color: #fff;
-    color: #000;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
-  }
-  
-  .toggle:hover {
-    color: #333;
-  }
   
 
+/* 
 .toggle:checked + .label .ball {
     animation: slideOn 0.3s linear forwards;
-}
-
+} */
+/* 
 @keyframes slider {
     0% {
         transform: translateX(40px) scale(1);
@@ -234,7 +202,7 @@
         transform: translateX(0) scale(1);
     }
 
-}
+} */
 .time-display {
     margin-top: 10px;
     font-size: 16px;

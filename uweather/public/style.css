@@ -3,11 +3,11 @@
     padding: 0;
     box-sizing: border-box;
     text-decoration: none;
-    background: transparent;
+    
 }
 
 body {
-    background: #a3c9d2;
+    background-color: #a3c9d2;
     color: rgb(0, 0, 0);
     overflow: hidden;
     overflow-y: scroll;
@@ -133,4 +133,47 @@ body {
     font-weight: 900;
     font-style: italic;
   }
+
+
+  .togglebackground {
+    display: inline-flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 133px;
+    height:38px;
+    background-color: #a3c9d2;
+    border-radius: 25px;
+    padding: 5px;
+    position: relative;
+    border: 1px solid #000;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    margin-left: 70px;
+  }
+
+  
+  .toggle {
+    flex: 1;
+    border: none;
+    background-color: transparent;
+    font-size: 13px;
+    font-weight: normal;
+    padding: 10px;
+    border-radius: 230px;
+    cursor: pointer;
+    color: #141111;
+    transition: 0.3s;
+    margin-left: -5px;
+  }
+  
+  .toggle.active {
+    background-color: #bbdede;
+    color: #000;
+    border: 1px solid #000;
+    box-shadow: 0 2px 4px #22292c;
+  }
+  
+  .toggle:hover {
+    color: #333;
+  }
+  
   
