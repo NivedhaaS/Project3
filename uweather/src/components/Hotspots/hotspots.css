@@ -50,14 +50,14 @@
 
 .hotspot-marker {
     position: absolute;
-    width: 15px;
-    height: 15px;
+    width: 20px;
+    height: 20px;
     border: 1px solid rgb(255, 255, 255);
     background-color: #d78b91;
     border-radius: 50%;
     cursor: pointer;
     font-family: "Fira Sans Condensed", sans-serif;
-    font-size: 10px;
+    font-size: 15px;
     text-align: center;
 }
 
