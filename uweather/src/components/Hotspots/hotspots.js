@@ -17,10 +17,6 @@ const Hotspots = () => {
         }
     }
 
-    const handleSliderChange = (e) => {
-        setSliderValue(e.target.value);
-    };
-
     return (
         <section id="hotspots">
             <div class="container">
@@ -41,21 +37,6 @@ const Hotspots = () => {
                         placeholder="xx"
                     />
                 </label>
-
-                <div className="slider">
-                    <label htmlFor="hotspot_slider">Heap vs Table</label>
-                    <input
-                        type="range"
-                        id="hotspot_slider"
-                        min="1"
-                        max="2"
-                        step="1"
-                        value={sliderValue}
-                        onChange={handleSliderChange}
-                        className="slider"
-                    />
-                    <span id="value">{sliderValue == 1 ? "Heap" : "Table"}</span>
-                </div>
 
                 <button className="find" onClick={findHotspots}>
                     Find Hotspots
