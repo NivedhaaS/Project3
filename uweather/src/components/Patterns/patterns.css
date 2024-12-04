@@ -8,7 +8,7 @@
     margin-top: 30rem;
 }
 
-.hPattern {
+.pPattern {
     flex: 1;
     font-size: 40px;
     font-family: "Caveat", cursive;
@@ -18,11 +18,19 @@
     text-align: left;
 }
 
-.Psun {
-    width: 10%;
-    max-width: 105px;
+.pSun {
+    width: 90%;
+    max-width: 80px;
     margin-top: -10px;
     margin-left: 40px; 
 }
 
-
+.phr {
+    display: block;
+    height: 1px;
+    max-width: 300rem;
+    border: 0;
+    border-top: 1px solid #0d0b0b;
+    margin-top: -15px;
+    margin-left: 100px;
+  }

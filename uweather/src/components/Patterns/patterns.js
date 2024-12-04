@@ -4,13 +4,12 @@ import "./patterns.css";
 
 const Patterns = () => {
     return ( 
-        <div>s</div>
-        // <section id="patterns">
-        //     <img src={sun} alt="sun" className="Psun"/>
-        //     <div className="pPattern" >
-        //         <span>weather patterns in </span>
-        //     </div>
-        // </section>                                                                                          
+        <section id="patterns">
+            <img src={sun} alt="sun" className="pSun"/>
+            <div className="pPattern" >
+                <span>weather patterns in [place]<hr className="phr"/></span>
+            </div>
+        </section>                                                                                          
     );
 }
 

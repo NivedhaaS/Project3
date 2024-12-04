@@ -20,7 +20,7 @@
 .Hsun {
     width: 10%;
     max-width: 115px;
-    margin-top: -10px;
+    margin-top: 10px;
     margin-left: 40px; 
 }
 
@@ -32,6 +32,7 @@
     font-style: normal;
     line-height: 1.5;
     text-align: left;
+    margin-top: 10px;
     margin-left: 30px;
 }
 
@@ -94,42 +95,41 @@
     margin-right: 5px;
 }
 
+.interaction_container{
+    margin-top: -710px;
+    margin-left: 400px;
+}
+
 .input_box {
-    padding: 10px;
+    padding: 12px;
     font-size: 18px;
-    border: 1px solid #000;
+    border: 1px solid #6e6c6c;
     border-radius: 20px;
     width: 60px;
     text-align: center;
     font-family: "Fira Sans Condensed", sans-serif;
     margin-left: 10px;
-    background-color: #f0f8ff;
+    background-color: #e6e9eb;
 }
 
-.interaction_container {
-    margin-top: 28rem;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    gap: 1rem;
+.fj{
+    font-size: 23px;
 }
 
 .find {
+    background-color: #8d9fab;
     font-family: "Fira Sans Condensed", sans-serif;
-    font-size: 20px;
-    padding: 10px 20px;
-    color: white;
-    background-color: #333;
+    font-size: 19px;
+    padding: 10px 3px;
+    margin-left: 10px;
     border-radius: 20px;
-    border: 1px solid black;
     cursor: pointer;
+    border: 1px solid black;
     transition: all 0.2s ease-in-out;
 }
 
 .find:hover {
-    background-color: #555;
-    transform: scale(1.05);
+    background-color: rgb(141, 172, 187);
 }
 
 .button {
@@ -154,7 +154,7 @@
 
 .heap_button:hover,
 .table_button:hover {
-    background-color: #666;
+    background-color: #666; /*turns darker when hovered*/
     transform: scale(1.05);
 }
 
