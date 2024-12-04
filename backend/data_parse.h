@@ -68,8 +68,8 @@ std::unordered_map<std::string, dataEntry> loadStations(std::string data_path = 
         station_data.name = station.substr(41, 30);
         station_data.state[0] = station.at(38);
         station_data.state[1] = station.at(39);
-        station_data.latitude = station.substr(12, 8);
-        station_data.longitude = station.substr(21, 9);
+        station_data.longitude = station.substr(12, 8);
+        station_data.latitude = station.substr(21, 9);
 
         trim(station_data.name);
         trim(station_data.longitude);
