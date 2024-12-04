@@ -1,0 +1,85 @@
+{
+    "data": [
+        {
+            "latitude": "-78.2886",
+            "longitude": "37.7092",
+            "name": "BREMO BLUFF",
+            "rank": 1,
+            "state": "VA",
+            "temp_incrs/yr": 1.1661221005379323
+        },
+        {
+            "latitude": "-71.6575",
+            "longitude": "44.3064",
+            "name": "BETHLEHEM 2",
+            "rank": 2,
+            "state": "NH",
+            "temp_incrs/yr": 1.1343561283311558
+        },
+        {
+            "latitude": "-109.8611",
+            "longitude": "40.2842",
+            "name": "FT DUCHESNE",
+            "rank": 3,
+            "state": "UT",
+            "temp_incrs/yr": 0.7932918234997857
+        },
+        {
+            "latitude": "-94.6264",
+            "longitude": "35.0539",
+            "name": "POTEAU WTR WKS",
+            "rank": 4,
+            "state": "OK",
+            "temp_incrs/yr": 0.788986295107929
+        },
+        {
+            "latitude": "-76.6111",
+            "longitude": "39.2814",
+            "name": "MARYLAND SCI CTR",
+            "rank": 5,
+            "state": "MD",
+            "temp_incrs/yr": 0.7842958804235857
+        },
+        {
+            "latitude": "-99.9175",
+            "longitude": "38.1964",
+            "name": "JETMORE 8NNW",
+            "rank": 6,
+            "state": "KS",
+            "temp_incrs/yr": 0.7172854486930438
+        },
+        {
+            "latitude": "-120.6619",
+            "longitude": "35.3056",
+            "name": "SAN LUIS OBISPO POLY",
+            "rank": 7,
+            "state": "CA",
+            "temp_incrs/yr": 0.6619831492339666
+        },
+        {
+            "latitude": "-82.2892",
+            "longitude": "37.6781",
+            "name": "WILLIAMSON",
+            "rank": 8,
+            "state": "WV",
+            "temp_incrs/yr": 0.5743076991791048
+        },
+        {
+            "latitude": "-90.8239",
+            "longitude": "39.8058",
+            "name": "PERRY 6 NW",
+            "rank": 9,
+            "state": "IL",
+            "temp_incrs/yr": 0.5612306348774296
+        },
+        {
+            "latitude": "-112.1503",
+            "longitude": "36.0528",
+            "name": "GRAND CANYON NP 2",
+            "rank": 10,
+            "state": "AZ",
+            "temp_incrs/yr": 0.5608056675887302
+        }
+    ],
+    "duration": 0.0292
+}
