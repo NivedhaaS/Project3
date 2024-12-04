@@ -134,48 +134,77 @@ body {
     font-style: italic;
   }
 
-
-  .togglebackground {
-    display: inline-flex;
-    justify-content: space-between;
-    align-items: center;
+  .togglecontainer {
+    position: relative;
+    display: inline-block;
     width: 133px;
     height:38px;
-    background-color: #a3c9d2;
+    margin-top: 15px;
+    margin-left: 24%;
+  }
+
+  .togglecontainer input{
+    opacity: 0;
+    width: 0;
+    height: 0;
+    z-index: 3;
+  }
+
+  .togglebackground {
+    display: flex;
+    position:absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #759096;
     border-radius: 25px;
-    padding: 5px;
-    position: relative;
-    border: 1px solid #000;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
-    margin-left: 70px;
+    transition: 0.3s;
+  }
+
+  .togglebackground:before {
+    position: absolute;
+    background-color: #bcd8d9;
+    border-radius: 25px;
+    content: "";
+    height: 100%;
+    width: 50%;
+    transition: 0.3s;
+    border: none;
   }
 
   
-  .toggle {
-    flex: 1;
+  .check:checked + .togglebackground:before {
+    transform: translateX(100%);
+  }
+
+  .toggletext{
+    text-align: center;
+    position:static;
     border: none;
     background-color: transparent;
     font-size: 13px;
+    font-family: "Fira Sans Condensed", sans-serif;
     font-weight: normal;
-    padding: 10px;
-    border-radius: 230px;
-    cursor: pointer;
     color: #141111;
-    transition: 0.3s;
-    margin-left: -5px;
+    z-index: 1;
+    width: 50%;
+    height: 1em;
+    margin-top: auto;
+    margin-bottom: auto;
   }
-  
-  .toggle.active {
-    background-color: #bbdede;
-    color: #000;
-    border: 1px solid #000;
-    box-shadow: 0 2px 4px #22292c;
-  }
-  
-  .toggle:hover {
-    color: #333;
-    cursor: pointer;
-  }
+
+
+
+
+  .fj{
+    font-size: 22px;
+    font-family: "Fira Sans Condensed", sans-serif;
+    margin-left: -450px;
+    margin-top: -10px;
+    font-weight: normal;
+}
 
 /*   nivedha here!
 

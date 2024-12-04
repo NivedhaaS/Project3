@@ -2,10 +2,10 @@
     display:inline-flex;
     align-items:flex-start;
     justify-content: center;
-    position: absolute;
-    padding: 10rem 2rem;
     gap: 1rem;
-    margin-top: 12rem;
+    position: relative;
+    padding: 2rem;
+    margin-top: 20rem;
 }
 
 
@@ -16,26 +16,72 @@
     margin-left: 40px; 
 }
 
-.hHotspots {
-    flex: 1;
+#hotspots {
+    display:flex;
+    flex-direction: column;
     font-size: 40px;
     font-family: "Caveat", cursive;
     font-weight: 600;
     font-style: normal;
-    line-height: 1.5;
-    text-align: left;
-    margin-top: 10px;
-    margin-left: 30px;
+    align-items: center;
+    width: 100%;
 }
 
 
 .map{
-    margin-top: 29rem;
-    margin-left: 45px;
-    width: 93%;
     border-radius: 10%;
-    border: 1px solid #000000; 
+    border: 1px solid #000000;
+    width: 100%; 
+    filter: brightness(84%);
+
 }
+
+
+.map-container {
+    position: relative;
+    display:inline;
+    
+    margin-top: 2rem; 
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.hotspot-marker {
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    border: 1px solid rgb(255, 255, 255);
+    background-color: #d78b91;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.hotspot-marker:hover::after {
+    content: attr(data-location);
+    position: absolute;
+    top: -20px; 
+    height: 100px;
+    width: 150px;
+    left: 20px; 
+    border: 1px solid rgb(255, 255, 255);
+    background-color: #d68689;
+    color: rgb(0, 0, 0);
+    word-wrap: normal;
+    padding: 5px;
+    font-size: 20px;
+    font-family: "Fira Sans Condensed", sans-serif;
+    font-weight: normal;
+    font-size: 14px;
+    border-radius: 5px;
+    z-index: 10;
+}
+
+.lat{
+    color: red;
+}
+
 
 .find {
     margin-top: 750px;
@@ -44,6 +90,11 @@
     font-weight: normal;
     margin-left: 200px;
 }
+
+.interaction_container {
+    margin-top: 2rem;
+    text-align: center;
+}  
 
 #name {
     border-radius: 30px;
@@ -57,6 +108,8 @@
     text-align: center;
     font-family: "Fira Sans Condensed", sans-serif;
 }
+
+
 
 .button {
     width: 100px;
@@ -95,20 +148,17 @@
 
 .input_box {
     padding: 10px;
-    font-size: 19px;
-    border: 1px solid #6e6c6c;
+    font-size: 16px;
     border-radius: 19px;
     width: 60px;
     text-align: center;
     font-family: "Fira Sans Condensed", sans-serif;
     margin-left: 20px;
     background-color: rgb(232, 237, 240);
+    border: 0;
 }
 
-.fj{
-    font-size: 22px;
-    font-family: "Fira Sans Condensed", sans-serif;
-}
+
 
 .find {
     background-color: #bcd8d9;
@@ -117,8 +167,8 @@
     padding: 11px 3px;
     border-radius: 20px;
     cursor: pointer;
-    border: 1px solid rgb(25, 25, 25);
     margin-left: 20px;
+    border: 0;
     transition: all 0.2s ease-in-out;
     width: 135px;
     height: 40px;
@@ -128,81 +178,12 @@
     background-color:#98adae;
 }
 
+
 .button {
     display: flex;
     gap: 1rem;
     margin-top: 10px;
 }
-
-/* .heap_button,
-.table_button {
-    font-size: 16px;
-    padding: 8px 15px;
-    color: rgb(9, 9, 9);
-    background-color: #bcd8d9;
-    border: 1px solid black;
-    border-radius: 15px;
-    gap: 1px;
-    cursor: pointer;
-    transition: all 0.2s ease-in-out;
-}
-
-.heap_button:hover,
-.table_button:hover {
-    background-color: #a3b5b6; /*turns darker when hovered*/
-    /* transform: scale(1.05);
-} */
-
-/* .heap_button:active,
-.table_button:active {
-    background-color: #888;
-    transform: scale(1);
-} */ */
-/* 
-.label {
-    background-color: white;
-    width: 10px;
-    height: 40px;
-    border-radius: 50px;
-    cursor: pointer;
-    display: inline-block;    
-}
-.toggle:checked + .label{
-    background-color:aqua;
-
-}
-
-.ball {
-    background-color: white;
-    width: 37px;
-    height: 37px;
-    border-radius: 50px;
-    position:absolute;
-    top: 1.5px;
-    left: 1.5px;
-
-} */
-  
-
-/* 
-.toggle:checked + .label .ball {
-    animation: slideOn 0.3s linear forwards;
-} */
-/* 
-@keyframes slider {
-    0% {
-        transform: translateX(40px) scale(1);
-    
-    }
-
-    50% {
-        transform: translateX(20px) scale(1.2);
-    }
-    0% {
-        transform: translateX(0) scale(1);
-    }
-
-} */
 .time-display {
     margin-top: 10px;
     font-size: 16px;
@@ -210,3 +191,5 @@
     text-align: center;
     font-family: "Fira Sans Condensed", sans-serif;
 }
+
+
