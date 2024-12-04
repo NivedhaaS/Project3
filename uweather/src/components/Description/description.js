@@ -1,6 +1,6 @@
 import React from 'react';
 import './description.css';
-import earth from "../../assets/earth.png";
+import earth from "../../assets/earth.gif";
 
 const Description = () => {
     return (

@@ -8,6 +8,8 @@ const Patterns = () => {
             <img src={sun} alt="sun" className="pSun"/>
             <div className="pPattern" >
                 <span>weather patterns in [place]<hr className="phr"/></span>
+                <span className="sub">yearly temperature changes</span>
+                <span className="trend">i</span> 
             </div>
         </section>                                                                                          
     );
