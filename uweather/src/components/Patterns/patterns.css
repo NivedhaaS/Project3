@@ -97,27 +97,7 @@
     margin-left: 500px;
   }
 
-  .graph2 {
-    background-color: #80a9b4;
-    position: absolute;
-    width: 350px;
-    height: 350px;
-    border: 1px solid #80a9b4;
-    border-radius: 25px;
-    margin-top: 610px;
-    margin-left: 100px;
-  }
 
-  .info2 {
-    background-color: #80a9b4;
-    position: absolute;
-    width: 280px;
-    height: 350px;
-    border: 1px solid #80a9b4;
-    border-radius: 25px;
-    margin-top: 610px;
-    margin-left: 500px;
-  }
 
   .graph:hover,.graph2:hover, .info:hover, .info2:hover{
     background-color: #71949e;

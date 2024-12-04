@@ -7,16 +7,11 @@ const Patterns = () => {
         <section id="patterns">
             <img src={sun} alt="sun" className="pSun"/>
             <div className="pPattern">
-                <span>weather patterns in [place]<hr className="phr"/></span>
-                <span className="sub">yearly temperature changes:</span>
+                <span>weather patterns by day<hr className="phr"/></span>
+                <span className="sub">temperature changes by day and location: ranked</span>
                 <div className= "trend">
                     <span className="graph"></span> 
                     <span className="info"></span>
-                </div>
-                <span className="prec">yearly precipitation changes:</span>
-                <div className= "trend2">
-                    <span className="graph2"></span> 
-                    <span className="info2"></span>
                 </div>
             </div>
         </section>                                                                                          
