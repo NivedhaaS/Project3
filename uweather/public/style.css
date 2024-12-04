@@ -158,16 +158,14 @@ body {
     left: 0;
     right: 0;
     bottom: 0;
-    background-color: #a3c9d2;
+    background-color: #759096;
     border-radius: 25px;
-    border: 1px solid #000;
-
     transition: 0.3s;
   }
 
   .togglebackground:before {
     position: absolute;
-    background-color: white;
+    background-color: #bcd8d9;
     border-radius: 25px;
     content: "";
     height: 100%;
@@ -187,6 +185,7 @@ body {
     border: none;
     background-color: transparent;
     font-size: 13px;
+    font-family: "Fira Sans Condensed", sans-serif;
     font-weight: normal;
     color: #141111;
     z-index: 1;
@@ -204,6 +203,7 @@ body {
     font-family: "Fira Sans Condensed", sans-serif;
     margin-left: -450px;
     margin-top: -10px;
+    font-weight: normal;
 }
 
 /*   nivedha here!
