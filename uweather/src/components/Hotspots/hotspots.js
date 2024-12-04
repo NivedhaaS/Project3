@@ -26,7 +26,7 @@ function usingStructure(using_table){
 }
 
 const Hotspots = () => {
-  const [hotspots, setHotspots] = useState("");
+  const [hotspots, setHotspots] = useState("5");
   const [plottedHotspots, setPlottedHotspots] = useState([]);
   const [using_table, set_table] = useState(false);
   const [using_all, set_all] = useState(false);
@@ -91,7 +91,7 @@ const Hotspots = () => {
 Longitude: ${hotspot.lng}
 Name: ${hotspot.name}
 State: ${hotspot.state}
-Temp Increase: ${(hotspot.tempIncrease/100).toFixed(4)}°C/year
+Temp Increase: ${(hotspot.tempIncrease/100).toFixed(5)}°C/year
 ${using_all ? `Date: ${hotspot.month}/${hotspot.day}` : ""}`}
       >{hotspot.rank}</div>
     </React.Fragment>
@@ -108,7 +108,6 @@ ${using_all ? `Date: ${hotspot.month}/${hotspot.day}` : ""}`}
             className="input_box"
             value={hotspots}
             onChange={(e) => setHotspots(e.target.value)}
-            placeholder="5"
           />
         </label>
         <button className="find" onClick={findHotspots}>
