@@ -6,8 +6,7 @@ const Footer = () => {
     return (
         <section id="footer">
             <div className="footer">
-                Built and designed by Yi Su, Lynette Hemingway, and Nivedhaa Sankaran.
-                <br></br><br></br>All rights reserved. ©
+                built and designed by yi su, lynette hemingway, and nivedhaa sankaran. 
             </div>
         </section>
     );
