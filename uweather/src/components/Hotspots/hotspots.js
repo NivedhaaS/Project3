@@ -29,6 +29,7 @@ const Hotspots = () => {
   const [hotspots, setHotspots] = useState("");
   const [plottedHotspots, setPlottedHotspots] = useState([]);
   const [using_table, set_table] = useState(false);
+  const [using_all, set_all] = useState(false);
   const [duration, set_duration] = useState(0);
   
 
@@ -42,7 +43,7 @@ const Hotspots = () => {
 
     try{
     console.log(`/api?hotspots=${numHotspots}&data_structure=${structure}`);
-    const response = await fetch(`/api?hotspots=${numHotspots}&data_structure=${structure}`,{
+    const response = await fetch(`/api?hotspots=${numHotspots}&data_structure=${structure}${using_all ? "&data_mode=all" : ""}`,{
       method: 'GET'
     });
 
@@ -54,6 +55,8 @@ const Hotspots = () => {
       rank: item.rank,
       state: item.state,
       tempIncrease: item["temp_incrs/yr"],
+      month: item.month,
+      day: item.day
     }));
 
     set_duration(hotspotData.duration);
@@ -84,13 +87,12 @@ const Hotspots = () => {
           top: `${calculateY(hotspot.lng)}%`,
           left: `${((130 + hotspot.lat) / 65) * 100}%`,
         }}
-        data-location={`
-        Lat: ${hotspot.lat}\n
-        Lng: ${hotspot.lng}\n
-        Name: ${hotspot.name}\n
-        State: ${hotspot.state}\n
-        Rank: ${hotspot.rank}\n
-        Temp Increase: ${hotspot.tempIncrease.toFixed(2)}/yr`}
+        data-location={`Latitude: ${hotspot.lat}
+Longitude: ${hotspot.lng}
+Name: ${hotspot.name}
+State: ${hotspot.state}
+Temp Increase: ${(hotspot.tempIncrease/100).toFixed(4)}°C/year
+${using_all ? `Date: ${hotspot.month}/${hotspot.day}` : ""}`}
       >{hotspot.rank}</div>
     </React.Fragment>
   ))}
@@ -119,14 +121,14 @@ const Hotspots = () => {
           <input 
             type="checkbox"
             className="check"
-            checked={using_table}
-            onChange={(f) => set_table(f.target.checked)}></input>
+            checked={using_all}
+            onChange={(g) => set_all(g.target.checked)}></input>
           <span className="togglebackground">
             <div id="heapButton" className="toggletext">
-              heap
+              By Location
             </div>
             <div id="tableButton" className="toggletext">
-              table
+              By Day
             </div>
           </span>
         </label>
@@ -138,10 +140,10 @@ const Hotspots = () => {
             onChange={(f) => set_table(f.target.checked)}></input>
           <span className="togglebackground">
             <div id="heapButton" className="toggletext">
-              heap
+              Heap
             </div>
             <div id="tableButton" className="toggletext">
-              table
+              Table
             </div>
           </span>
         </label>
