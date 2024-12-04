@@ -19,7 +19,7 @@
 
 .Hsun {
     width: 10%;
-    max-width: 115px;
+    max-width: 60px;
     margin-top: 10px;
     margin-left: 40px; 
 }
@@ -80,6 +80,7 @@
     border-top: 1px solid #0d0b0b;
     margin-top: -15px;
     margin-left: 400px;
+    width: 580px;
   }
 
 .controls {

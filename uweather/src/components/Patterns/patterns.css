@@ -19,7 +19,7 @@
 }
 
 .pSun {
-    width: 90%;
+    max-width: 60px;
     max-width: 80px;
     margin-top: -10px;
     margin-left: 40px; 
