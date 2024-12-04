@@ -18,7 +18,7 @@
 
 #hotspots {
     display:flex;
-    flex-direction: column;
+    flex-direction:column;
     font-size: 40px;
     font-family: "Caveat", cursive;
     font-weight: 600;
@@ -56,25 +56,30 @@
     background-color: #d78b91;
     border-radius: 50%;
     cursor: pointer;
+    font-family: "Fira Sans Condensed", sans-serif;
+    font-size: 10px;
+    text-align: center;
 }
 
 .hotspot-marker:hover::after {
     content: attr(data-location);
+    white-space: pre-wrap;
+    word-wrap: normal;
     position: absolute;
     top: -20px; 
     height: 100px;
-    width: 150px;
+    width: 200px;
     left: 20px; 
     border: 1px solid rgb(255, 255, 255);
     background-color: #d68689;
     color: rgb(0, 0, 0);
-    word-wrap: normal;
     padding: 5px;
     font-size: 20px;
     font-family: "Fira Sans Condensed", sans-serif;
     font-weight: normal;
     font-size: 14px;
     border-radius: 5px;
+    text-align: left;
     z-index: 10;
 }
 
@@ -185,7 +190,7 @@
     margin-top: 10px;
 }
 .time-display {
-    margin-top: 10px;
+    margin-top: 15px;
     font-size: 16px;
     color: #555;
     text-align: center;
