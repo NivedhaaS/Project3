@@ -38,6 +38,7 @@ const Hotspots = () => {
                         placeholder="xx"
                     />
                 </label>
+
                 <button className="find" onClick={findHotspots}>
                     Find Hotspots
                 </button>
