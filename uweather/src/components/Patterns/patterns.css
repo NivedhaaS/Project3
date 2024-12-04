@@ -45,6 +45,81 @@
     width: 500px;
   }
 
-  .trend {
-    background-color: white;
+  .graph {
+    background-color: #80a9b4;
+    position: absolute;
+    width: 350px;
+    height: 350px;
+    border: 1px solid #80a9b4;
+    border-radius: 25px;
+    margin-top: 105px;
+    margin-left: 100px;
   }
+
+  .info {
+    background-color: #80a9b4;
+    position: absolute;
+    width: 280px;
+    height: 350px;
+    border: 1px solid #80a9b4;
+    border-radius: 25px;
+    margin-top: 105px;
+    margin-left: 500px;
+  }
+
+  .prec {
+    position: absolute;
+    margin-top: 550px;
+    font-weight: normal;
+    font-size: 20px;
+    font-family: "Fira Sans Condensed", sans-serif;
+  }
+
+  .graph {
+    background-color: #80a9b4;
+    position: absolute;
+    width: 350px;
+    height: 350px;
+    border: 1px solid #80a9b4;
+    border-radius: 25px;
+    margin-top: 105px;
+    margin-left: 100px;
+  }
+
+  .info {
+    background-color: #80a9b4;
+    position: absolute;
+    width: 280px;
+    height: 350px;
+    border: 1px solid #80a9b4;
+    border-radius: 25px;
+    margin-top: 105px;
+    margin-left: 500px;
+  }
+
+  .graph2 {
+    background-color: #80a9b4;
+    position: absolute;
+    width: 350px;
+    height: 350px;
+    border: 1px solid #80a9b4;
+    border-radius: 25px;
+    margin-top: 610px;
+    margin-left: 100px;
+  }
+
+  .info2 {
+    background-color: #80a9b4;
+    position: absolute;
+    width: 280px;
+    height: 350px;
+    border: 1px solid #80a9b4;
+    border-radius: 25px;
+    margin-top: 610px;
+    margin-left: 500px;
+  }
+
+  .graph:hover,.graph2:hover, .info:hover, .info2:hover{
+    background-color: #71949e;
+  }
+

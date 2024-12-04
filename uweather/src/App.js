@@ -2,6 +2,7 @@ import Navbar from "./components/Navbar/navbar";
 import Description from "./components/Description/description";
 import Hotspots from "./components/Hotspots/hotspots";
 import Patterns from "./components/Patterns/patterns";
+import Footer from "./components/Footer/footer";
 // import Map from "./components/Map/map";
 import { motion } from "framer-motion";
 import { useInView } from "react-intersection-observer";
@@ -36,6 +37,7 @@ function App() {
       {/* </Section> */}
       <Patterns/>
       {/* <Map/> */}
+      <Footer/>
     </div>
   );
 }
