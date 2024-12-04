@@ -8,14 +8,6 @@
     margin-top: 12rem;
 }
 
-.hr {
-    display: block;
-    height: 1px;
-    border: 0;
-    border-top: 1px solid #0d0b0b;
-    margin-top: -25px;
-    
-}
 
 .Hsun {
     width: 10%;
@@ -102,35 +94,36 @@
 }
 
 .input_box {
-    padding: 12px;
-    font-size: 18px;
+    padding: 10px;
+    font-size: 19px;
     border: 1px solid #6e6c6c;
-    border-radius: 20px;
+    border-radius: 19px;
     width: 60px;
     text-align: center;
     font-family: "Fira Sans Condensed", sans-serif;
-    margin-left: 10px;
-    background-color: #e6e9eb;
+    margin-left: 20px;
+    background-color: #e8edf0;
 }
 
 .fj{
-    font-size: 23px;
+    font-size: 22px;
+    font-family: "Fira Sans Condensed", sans-serif;
 }
 
 .find {
-    background-color: #8d9fab;
+    background-color: #bcd8d9;
     font-family: "Fira Sans Condensed", sans-serif;
-    font-size: 19px;
-    padding: 10px 3px;
-    margin-left: 10px;
+    font-size: 17px;
+    padding: 11px 3px;
     border-radius: 20px;
     cursor: pointer;
-    border: 1px solid black;
+    border: 1px solid rgb(25, 25, 25);
+    margin-left: 20px;
     transition: all 0.2s ease-in-out;
 }
 
 .find:hover {
-    background-color: rgb(141, 172, 187);
+    background-color:#98adae;
 }
 
 .button {
@@ -141,21 +134,21 @@
 
 .heap_button,
 .table_button {
-    font-family: "Fira Sans Condensed", sans-serif;
-    font-size: 18px;
-    font-weight: bold;
+    font-size: 16px;
     padding: 8px 15px;
-    color: white;
-    background-color: #444;
+    color: rgb(9, 9, 9);
+    background-color: #bcd8d9;
     border: 1px solid black;
     border-radius: 15px;
+    gap: 1px;
+    margin-left: 100px;
     cursor: pointer;
     transition: all 0.2s ease-in-out;
 }
 
 .heap_button:hover,
 .table_button:hover {
-    background-color: #666; /*turns darker when hovered*/
+    background-color: #a3b5b6; /*turns darker when hovered*/
     transform: scale(1.05);
 }
 

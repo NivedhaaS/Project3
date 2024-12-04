@@ -16,11 +16,12 @@
     font-style: normal;
     line-height: 1.5;
     text-align: left;
+    margin-top: -30px;
+    margin-left: 20px;
 }
 
 .pSun {
     max-width: 60px;
-    max-width: 80px;
     margin-top: -10px;
     margin-left: 40px; 
 }
@@ -32,5 +33,6 @@
     border: 0;
     border-top: 1px solid #0d0b0b;
     margin-top: -15px;
-    margin-left: 100px;
+    margin-left: 450px;
+    width: 500px;
   }
