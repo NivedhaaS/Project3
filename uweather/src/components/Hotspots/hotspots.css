@@ -132,7 +132,7 @@
     margin-top: 10px;
 }
 
-.heap_button,
+/* .heap_button,
 .table_button {
     font-size: 16px;
     padding: 8px 15px;
@@ -148,15 +148,93 @@
 .heap_button:hover,
 .table_button:hover {
     background-color: #a3b5b6; /*turns darker when hovered*/
-    transform: scale(1.05);
-}
+    /* transform: scale(1.05);
+} */
 
-.heap_button:active,
+/* .heap_button:active,
 .table_button:active {
     background-color: #888;
     transform: scale(1);
+} */ */
+/* 
+.label {
+    background-color: white;
+    width: 10px;
+    height: 40px;
+    border-radius: 50px;
+    cursor: pointer;
+    display: inline-block;    
+}
+.toggle:checked + .label{
+    background-color:aqua;
+
 }
 
+.ball {
+    background-color: white;
+    width: 37px;
+    height: 37px;
+    border-radius: 50px;
+    position:absolute;
+    top: 1.5px;
+    left: 1.5px;
+
+} */
+.toggle-button {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 200px;
+    background-color: #ccc;
+    border-radius: 25px;
+    padding: 5px;
+    position: relative;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    
+  }
+  
+  .toggle {
+    flex: 1;
+    border: none;
+    background-color: transparent;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 20px;
+    cursor: pointer;
+    color: #666;
+    transition: 0.3s;
+  }
+  
+  .toggle.active {
+    background-color: #fff;
+    color: #000;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  }
+  
+  .toggle:hover {
+    color: #333;
+  }
+  
+
+.toggle:checked + .label .ball {
+    animation: slideOn 0.3s linear forwards;
+}
+
+@keyframes slider {
+    0% {
+        transform: translateX(40px) scale(1);
+    
+    }
+
+    50% {
+        transform: translateX(20px) scale(1.2);
+    }
+    0% {
+        transform: translateX(0) scale(1);
+    }
+
+}
 .time-display {
     margin-top: 10px;
     font-size: 16px;

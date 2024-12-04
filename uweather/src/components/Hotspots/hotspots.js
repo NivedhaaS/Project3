@@ -42,9 +42,18 @@ const Hotspots = () => {
                 <button className="find" onClick={findHotspots}>
                     Find Hotspots
                 </button>
-                <div className="button">
+                {/* <div className="button">
                     <button className="heap_button">Heap</button>
                     <button className="table_button">Table</button>
+                </div> */}
+                {/* <label for="test" class="label">
+                    <div className="ball">
+                        heaps
+                    </div>
+                </label> */}
+                <div class="toggle-button">
+                    <button id="heapButton" class="toggle active">Heap</button>
+                    <button id="tableButton" class="toggle">Table</button>
                 </div>
             </div>
         </section> 
