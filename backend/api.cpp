@@ -38,7 +38,7 @@ int main(){
         bool using_all = false;
         if (data_mode == "all") using_all = true;
 
-
+        std::cout << "requested" << std::endl;
 
         //Execute Search and Measure Time
         auto time1 = std::chrono::high_resolution_clock::now();

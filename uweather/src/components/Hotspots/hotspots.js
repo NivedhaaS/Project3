@@ -29,8 +29,10 @@ const Hotspots = () => {
   const [hotspots, setHotspots] = useState("");
   const [plottedHotspots, setPlottedHotspots] = useState([]);
   const [using_table, set_table] = useState(false);
+  const [duration, set_duration] = useState(0);
+  
 
-  const findHotspots = () => {
+  const findHotspots = async () => {
     const numHotspots = parseInt(hotspots, 10);
     const structure = usingStructure(using_table);
     if (isNaN(numHotspots) || numHotspots <= 0) {
@@ -39,12 +41,12 @@ const Hotspots = () => {
     }
 
     try{
-    const response = fetch(`/api?hotspots=${numHotspots}&data_structure=${structure}`,{
+    console.log(`/api?hotspots=${numHotspots}&data_structure=${structure}`);
+    const response = await fetch(`/api?hotspots=${numHotspots}&data_structure=${structure}`,{
       method: 'GET'
-    })
+    });
 
-    const hotspotData = response.json();
-
+    const hotspotData = await response.json();
     const formattedHotspots = hotspotData.data.map((item) => ({
       lat: parseFloat(item.latitude),
       lng: parseFloat(item.longitude),
@@ -52,13 +54,13 @@ const Hotspots = () => {
       rank: item.rank,
       state: item.state,
       tempIncrease: item["temp_incrs/yr"],
-      duration: item["duration"],
     }));
 
+    set_duration(hotspotData.duration);
     const selectedHotspots = formattedHotspots.slice(0, numHotspots);
     setPlottedHotspots(selectedHotspots);
   }
-  catch{}
+  catch{console.log("no response")}
   };
 
   return (
@@ -112,22 +114,39 @@ const Hotspots = () => {
         </button>
       </div>
 
-      <label className="togglecontainer">
-        <input 
-          type="checkbox"
-          className="check"
-          checked={using_table}
-          onChange={(f) => set_table(f.target.checked)}></input>
-        <span className="togglebackground">
-          <div id="heapButton" className="toggletext">
-            heap
-          </div>
-          <div id="tableButton" className="toggletext">
-            table
-          </div>
-        </span>
-      </label>
-      <div className="time-display"> </div>
+      <div>
+        <label className="togglecontainer">
+          <input 
+            type="checkbox"
+            className="check"
+            checked={using_table}
+            onChange={(f) => set_table(f.target.checked)}></input>
+          <span className="togglebackground">
+            <div id="heapButton" className="toggletext">
+              heap
+            </div>
+            <div id="tableButton" className="toggletext">
+              table
+            </div>
+          </span>
+        </label>
+        <label className="togglecontainer">
+          <input 
+            type="checkbox"
+            className="check"
+            checked={using_table}
+            onChange={(f) => set_table(f.target.checked)}></input>
+          <span className="togglebackground">
+            <div id="heapButton" className="toggletext">
+              heap
+            </div>
+            <div id="tableButton" className="toggletext">
+              table
+            </div>
+          </span>
+        </label>
+      </div>
+      <div className="time-display">{duration === 0 ? "" : `Took ${duration} ms`}</div>
     </section>
   );
 };
