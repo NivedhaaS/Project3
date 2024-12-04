@@ -165,3 +165,43 @@
     text-align: center;
     font-family: "Fira Sans Condensed", sans-serif;
 }
+
+.slider {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-top: 20px;
+}
+
+label {
+    font-size: 18px;
+    font-weight: bold;
+    color: #333;
+}
+
+.slider {
+    width: 200px;
+    height: 8px;
+    background-color: #ddd;
+    border-radius: 5px;
+    appearance: none;
+}
+
+.slider::-webkit-slider-thumb {
+    width: 20px;
+    height: 20px;
+    background-color: #4CAF50;
+    border-radius: 50%;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+}
+
+.slider::-webkit-slider-thumb:hover {
+    background-color: #45a049;
+}
+
+#value {
+    font-size: 16px;
+    font-weight: normal;
+    color: #333;
+}
