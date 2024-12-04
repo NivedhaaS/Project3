@@ -141,7 +141,6 @@
     border: 1px solid black;
     border-radius: 15px;
     gap: 1px;
-    margin-left: 100px;
     cursor: pointer;
     transition: all 0.2s ease-in-out;
 }

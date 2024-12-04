@@ -7,6 +7,7 @@ import "./hotspots.css";
 const Hotspots = () => {
     const [hotspots, setHotspots] = useState("");
     const [timeTaken, setTimeTaken] = useState("");
+    
 
     const findHotspots = () => {
         const startTime = performance.now();
