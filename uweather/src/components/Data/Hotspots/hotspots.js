@@ -1,6 +1,7 @@
+import { useEffect } from "react";
 import React, { useState } from "react";
-import sun from "../../assets/sun.png";
-import map from "../../assets/usa.png";
+import sun from "../../../assets/sun.png";
+import map from "../../../assets/usa.png";
 import "./hotspots.css";
 
 function calculateY(lat) {
@@ -25,30 +26,30 @@ function usingStructure(using_table){
   else return "heap";
 }
 
-const Hotspots = () => {
-  const [hotspots, setHotspots] = useState("5");
+const Hotspots = ({ findHotspots, hotspotData }) => {
   const [plottedHotspots, setPlottedHotspots] = useState([]);
+  const [duration, set_duration] = useState(0);
+
+
+  const [hotspots, setHotspots] = useState("5");
   const [using_table, set_table] = useState(false);
   const [using_all, set_all] = useState(false);
-  const [duration, set_duration] = useState(0);
   
 
-  const findHotspots = async () => {
+  const handleFindHotspots = async () => {
     const numHotspots = parseInt(hotspots, 10);
-    const structure = usingStructure(using_table);
     if (isNaN(numHotspots) || numHotspots <= 0) {
       alert("please enter a valid number of hotspots.");
       return;
     }
 
-    try{
-    console.log(`/api?hotspots=${numHotspots}&data_structure=${structure}`);
-    const response = await fetch(`/api?hotspots=${numHotspots}&data_structure=${structure}${using_all ? "&data_mode=all" : ""}`,{
-      method: 'GET'
-    });
+    const params = {numHotspots: numHotspots, structure: usingStructure(using_table), using_all: using_all};
+    await findHotspots(params);
+    
+  };
 
-    const hotspotData = await response.json();
-    const formattedHotspots = hotspotData.data.map((item) => ({
+  useEffect(() => {
+    const formattedHotspots =  hotspotData?.data?.map((item) => ({
       lat: parseFloat(item.latitude),
       lng: parseFloat(item.longitude),
       name: item.name,
@@ -59,12 +60,9 @@ const Hotspots = () => {
       day: item.day
     }));
 
-    set_duration(hotspotData.duration);
-    const selectedHotspots = formattedHotspots.slice(0, numHotspots);
-    setPlottedHotspots(selectedHotspots);
-  }
-  catch{console.log("no response")}
-  };
+    set_duration(hotspotData.duration || 0);
+    setPlottedHotspots(formattedHotspots);
+    }, [hotspotData]);
 
   return (
     <section id="hotspots">
@@ -79,7 +77,9 @@ const Hotspots = () => {
       </div>
       <div className="map-container">
   <img src={map} alt="map" className="map" />
-  {plottedHotspots.map((hotspot, index) => (
+
+
+  {plottedHotspots?.map((hotspot, index) => (
     <React.Fragment key={index}>
       <div
         className="hotspot-marker"
@@ -96,6 +96,8 @@ ${using_all ? `Date: ${hotspot.month}/${hotspot.day}` : ""}`}
       >{hotspot.rank}</div>
     </React.Fragment>
   ))}
+
+
 </div>
 
 
@@ -110,7 +112,7 @@ ${using_all ? `Date: ${hotspot.month}/${hotspot.day}` : ""}`}
             onChange={(e) => setHotspots(e.target.value)}
           />
         </label>
-        <button className="find" onClick={findHotspots}>
+        <button className="find" onClick={handleFindHotspots}>
           find hotspots
         </button>
       </div>

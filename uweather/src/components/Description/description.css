@@ -20,6 +20,7 @@
 
 .part2 {
     padding: .3rem 5rem;
+    padding-right: 10%;
     flex: 1;
     font-size: 23px;
     font-family: "Fira Sans Condensed", sans-serif;
