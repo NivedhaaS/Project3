@@ -17,7 +17,7 @@ int main(){
 
 
     DataStructures structures(loading_all_data, data_path);
-    std::cout << "Finished loading data on " << structures.getAllSize() << " points and" << structures.getAvgSize() << " locations" << std::endl;
+    std::cout << "Finished loading data on " << structures.getAllSize() << " points and " << structures.getAvgSize() << " locations" << std::endl;
 
 
 
